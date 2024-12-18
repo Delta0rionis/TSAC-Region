@@ -1,0 +1,7 @@
+OffScreenDen_ZN: 96><-15><0><-20><0><
+zn_nadir: 168><-303><-70><-242><0><
+zn_comms: 1170><834><534><484><0><
+zn_crevasse: 147><-978><-82><-712><0><
+zn_dome2: 69><894><-18><484><0><
+zn_radioarray: 396><834><252><484><0><
+Connection: zn_dome2,zn_radioarray,11,11,8,3,3,3

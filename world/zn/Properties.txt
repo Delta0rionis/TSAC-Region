@@ -1,0 +1,15 @@
+
+overseersSpawnChance: 0
+overseersMin: 4
+overseersMax: 8
+earlyCycleChance: 0.0
+earlyCycleFloodChance: 0.0
+playerGuideOverseerSpawnChance: 0.0
+pupSpawnChance: 0.0
+Room Setting Templates: Zenith, Nadir, Crevasse, Roost
+Subregion: Zenith
+Subregion: Zenith (Eastern Radio Array)
+Subregion: Vertex Spires
+Subregion: Nadir
+Subregion: Sepulchral Crevasse
+Subregion: The Roost
