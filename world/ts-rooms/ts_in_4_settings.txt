@@ -1,0 +1,14 @@
+Template: TS_SettingsTemplate_Intake
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 1
+Grime: 0.09782609
+Palette: 0
+EffectColorA: 19
+EffectColorB: 21
+Effects: Fog-0.05434782-12-135, Contrast-0.1086956-13-80, ZeroG-0.8043478-278-79, Bloom-0.2065217-275-134, ZeroGSpecks-0.4673913-14-28, 
+PlacedObjects: LightFixture><1019.3><602.7439><DeepProcessing~-149.6794~24~28, LightFixture><-63.92108><572.9338><RedLight~-90.67949~24~28, LightFixture><1016.936><98.92685><RedLight~-133.6794~17~62, LightFixture><-34.0694><112.1641><DeepProcessing~-155.6795~48~95, LightFixture><485><361><DeepProcessing~47.3205~-24~68, CGElectricArc><165.4087><160.6218><31~154~FFFFFF~00FF37~2^355~True~8~0.5~2~0~0~0.005000234~0.0326087~0.05434782~0.5~0~0~0~15~40, CGElectricArc><814><158><90~95~FFFFFF~00FF37~2^360~True~8~0.5~2~0~0~0.005~0.0326087~0.05~0.5~0~0~0~15~40, ColouredLightSource><166.9724><339.8019><-338~-34~00FF00~81^-349~1~False~0.5~0~0.5~Always~0~100, ColouredLightSource><816><348><-205~62~00FF00~81^-349~1~False~0.5~0~0.5~Always~0~100, LightSource><488.8372><622.93><1~Environment~-6~-107~-36~-188.3975~0~0~None~0~0, LightSource><490.6566><102.6255><1~Environment~-7~109~50~86.60254~0~0~None~0~0, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><854.55><611.0001><0.3695652><0.9021739, OMNI><SO_WAT-TapWater.ogg><849.6669><537.5681><0.3369565><1, 
+FadePalette: 8, 0.9021739

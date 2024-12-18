@@ -1,0 +1,20 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 1.487644E-09
+SecondWaveLength: 0
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0.05434782
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+WaterReflectionAlpha: 0
+Palette: 10
+Effects: HSLDisplaySnow-0.1630435-1071-415-Luminosity:23.91304-EndHue:0-EndLuminosity:0-Hue:0-AffectSnowfall:True-LerpRainCycle:False-LerpNightCycle:False, BkgOnlyLightning-1-20-20, Coldness-0.6956522-284-75, Dustpuffs-0.2282609-29-72, GreenSparks-1-1064-54, Darkness-0-278-14, FairyParticles-0.5108696-1064-112, 
+PlacedObjects: SnowSource><1146><312><None~-570~-100~-269~152.6025~0.2391304~0, SnowSource><446.0001><664><Strip~251~-102~50~86.60254~1~0, SnowSource><2622><475><Strip~166~-105~317~158.6025~1~0, SnowSource><2001><498><None~-232~-451~39~-32.39746~0.2934783~0, SnowSource><675.0001><232><Radial~142~175~200~324.6025~0.1195652~0, FairyParticleSettings><184.7921><96.80449><-235~-210.3398~0~1~1~0~1.716524~3.563349~461.9565~500~1000~1000~5~22.17399~160.4348~180~0.326087~0.5152173~0~0~0.3043478~0.5217391~1~0.2282609~6.791306~Star_Thick~SIN_IO~SIN_IO~0~0~2.391304, CosmeticSlimeMold><95.18069><252.6642><119~46, CosmeticSlimeMold2><118.2734><256.0514><114~6, SlimeMold><137.8733><234.6547><24~204~2~3, SlimeMold><236.9428><240.447><-337~196~2~3, LightFixture><90.65421><231.6226><SlimeMoldLight~-190.6795~123~100, Mushroom><441.5507><123.017><406~-10~2~3, Mushroom><466.0521><113.9707><377~80~2~3, Mushroom><352.0284><118.198><500~-83~2~3, CosmeticSlimeMold2><128.9469><251.5351><0~100, Mushroom><833.6882><112.1824><9~188~2~3, SlimeMold><79.9371><261.8101><-182~259~2~3, FlareBomb><1124.821><225.0883><-5~-123~2~3, FlareBomb><1974.803><290.4633><-85~-123~2~3, FlareBomb><1602.777><307.0519><-486~-294~2~3, FlareBomb><1507.865><189.6019><383~-109~2~3, SlimeMold><2786.403><93.32489><206~41~2~3, SlimeMold><2802.151><74.13116><120~-7~2~3, SlimeMold><2860.806><101.4517><177~-93~2~3, LightFixture><2801.917><77.43207><SlimeMoldLight~58.32056~168~100, CosmeticSlimeMold2><2819.188><63.19009><-117~-49, DangleFruit><2695.064><246.8246><239~297~2~3, DangleFruit><2758.648><267.8842><182~194~2~3, DeadTokenStalk><2532.607><530.36><-16~-58, DeadTokenStalk><2705.624><542.4073><12~-58, CosmeticSlimeMold2><2806><250><-57~-87, Mushroom><2552.552><396.4431><-426~-61~2~3, Mushroom><2525.586><401.886><-396~-38~2~3, Mushroom><2800.041><394.4458><-677~-81~2~3, Mushroom><2686.431><402.584><-555~-97~2~3, CosmeticSlimeMold2><228><511><1~-51, LightFixture><218><487><SlimeMoldLight~-328.6795~21~100, Mushroom><625><404><86~91~2~3, Mushroom><517><403><194~17~2~3, SlimeMold><225><477><40~-83~2~3, 
+AmbientSounds: OMNI><AM_RAIN-QuietThunder.ogg><228.8024><367.2808><0.1413043><1, OMNI><AM_RAIN-Rumbles.ogg><230.5867><445.1154><0.2173913><1, OMNI><Deep Weird Wind.wav><230.8623><288.9155><0.1304348><1, OMNI><SO_SFX-ColdNight.ogg><231.9166><209.8607><0.1847825><1, OMNI><SO_SFX-WaitPad.ogg><226.3215><132.5632><0.1956521><1, OMNI><weird deep hole.wav><417.6039><132.6365><0.1521739><1, 
+FadePalette: 9, 0.1521739, 0.1413043, 0.1413043

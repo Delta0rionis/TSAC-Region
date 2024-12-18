@@ -1,0 +1,17 @@
+
+overseersSpawnChance: 0
+overseersMin: 0
+overseersMax: 0
+earlyCycleChance: 0.0
+earlyCycleFloodChance: 0.0
+playerGuideOverseerSpawnChance: 0.0
+pupSpawnChance: 0.0
+Room Setting Templates: Lab, Intake, CPU
+Subregion: Three Stars Above Clouds
+Subregion: Three Stars Above Clouds (Data Archive)
+Subregion: Three Stars Above Clouds (Cognitive Nexus)
+Subregion: Three Stars Above Clouds (Memory Conflux)
+Subregion: Three Stars Above Clouds (Sequential Processing Syzygy)
+Subregion: Intake Ducts
+Subregion: Vertex Spires
+Room_Attr: TS_ARCHIVE: Inspector-Like,

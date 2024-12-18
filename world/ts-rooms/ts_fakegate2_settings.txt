@@ -1,0 +1,11 @@
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+Grime: 0.173913
+Palette: 16
+EffectColorA: 4
+EffectColorB: 20
+Effects: Lightning-0.6413044-20-20, ZeroGSpecks-0.25-24-82, GreenSparks-0.06521739-280-25, Coldness-0.07608695-286-84, SilenceWater-1-24-131, 
+PlacedObjects: LightSource><729.1805><390.086><0.7826087~Environment~2~-93~134~-84.39746~0~0~None~0~0, LightFixture><479.0861><522.4305><RedLight~-81.6795~39~87, LightFixture><472.8615><19.08392><RedLight~-109.6795~-192~86, LightSource><-1.377319><556.342><1~EffectColor1~-74~-180~37~-124.3975~0~0~None~0~0, LightSource><963.7485><572.05><1~EffectColor2~-77~-205~-113~-121.3975~0~0~None~0~0, LightSource><165.8002><240.7585><0.6413044~EffectColor1~-77~80~-127~76.60254~0~0~None~0~0, LightSource><791.9409><235.059><0.5978261~EffectColor2~-47~98~92.00006~-105.3975~0~0~None~0~0, SnowSource><87.04315><170.3047><Radial~-50~1~-245~-99.39751~0.5543478~0, LightSource><59.4046><220.6269><1~Environment~-63~109~248~146.6025~1~0~None~0~0, LightSource><135.1113><-27.14413><0.4673913~EffectColor2~-13~119~50~86.60254~0~0~None~0~0, LightSource><826.8591><-24.60809><0.5543478~EffectColor1~0~100~57~-46.39746~0~0~None~0~0, CommonGateData><489.5205><227.0511><100~50~False~False~False~False~False~False~False~False~0~1~1, 
+AmbientSounds: SPOT><AM_IND-DeepHum.ogg><19.31146><486.9333><0.5><1><472.3115><-55.06671><-86.35535><129.6447><0><0.2086958, SPOT><AM_IND-SuperStructure.ogg><200.8699><484.8481><0.3152174><0.8826087><733.8699><380.8481><-25.35535><-124.3553><0><0.1326088, SPOT><AM_RAIN-QuietThunder.ogg><389.3842><478.8369><0.2934783><1><83.38422><237.8369><111.6447><-52.35535><0><0.1, SPOT><AM_WIN-MedWind.ogg><575.0822><478.6824><0.3586957><1><92.08221><216.6824><-105.3553><-87.35535><0><0.154348, 
+FadePalette: 17, 0.7065217

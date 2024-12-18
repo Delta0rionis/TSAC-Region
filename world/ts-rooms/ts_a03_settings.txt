@@ -1,0 +1,10 @@
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 1
+Grime: 0.1195652
+Palette: 18
+Effects: ZeroG-1-20-20, 
+PlacedObjects: LightFixture><13.57346><502.594><RedLight~17.32051~-10~44, LightFixture><212.6728><54.93448><RedLight~17.32051~-10~17, LightFixture><731.6412><621.3584><RedLight~17.32051~-10~61, LightFixture><823.799><241.8061><RedLight~17.32051~-10~74, LightSource><49.11707><367.6006><1~Environment~83~4~-224~-155.3975~0~0~None~0~0, LightSource><594.0912><92.17798><1~Environment~0~100~50~86.60254~1~0~None~0~0, LightFixture><350.3><634.0059><RedLight~17.32051~-10~60, LightSource><887.9326><530.9383><1~Environment~-94~-23~-401~-130.3975~1~0~None~0~0, 
+FadePalette: 17, 0.8043478

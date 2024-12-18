@@ -1,0 +1,17 @@
+Template: TS_SettingsTemplate_Intake
+DangerType: Flood
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0.09782609
+WaveSpeed: 0.7608696
+WaveLength: 0.6413044
+WaveAmplitude: 0.05110586
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0.06521739
+Palette: 23
+Effects: ZeroG-0.4021739-20-20, ZeroGSpecks-0.2391304-281-22, WaterDepth-0.09782609-24-79, SilenceWater-0.326087-766-611, WaterFluxFrequency-0.1195652-1088-590, WaterFluxSpeed-1-1089-537, WaterFluxMinLevel-0.1847826-1089-482, WaterFluxMaxLevel-0.25-1088-428, 
+PlacedObjects: LightSource><112.9344><352.0611><1~Environment~0~100~-283~41.60254~0~0~None~0~0, LightSource><836.6804><613.1638><1~Environment~-85~-51~49~-18.39746~0~0~None~0~0, LightFixture><888.2074><402.0546><RedLight~-45.6795~-91~19, LightFixture><230.191><540.4407><RedLight~17.32051~-10~70, LightFixture><525.3867><177.604><RedLight~17.32051~-10~68, LightSource><801.3774><346.4081><1~Environment~-10~96~81~-66.39746~1~0~None~0~0, 
+AmbientSounds: SPOT><SO_WAT-LightFlow.ogg><83.61987><502.1519><0.5869565><0.2956522><501.6199><14.15186><-197.3553><31.64466><0><0.1, OMNI><AM_IND-SuperStructure.ogg><860.405><614.6265><0.173913><0.9217392, SPOT><AM_IND-ElectricHum01.ogg><754.2457><292.95><0.2934783><1><493.2457><111.95><-318.3553><40.64465><0><0.2195653, 
+FadePalette: 17, 0.4021739

@@ -1,0 +1,19 @@
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.2826087
+WaveLength: 0.3369565
+WaveAmplitude: 0.5869565
+SecondWaveLength: 0.5108696
+SecondWaveAmplitude: 0.4021739
+Clouds: 0
+Grime: 0.02173913
+WaterReflectionAlpha: 0
+Palette: 23
+EffectColorA: 8
+EffectColorB: 2
+Effects: ZeroG-0.2065217-96-105, 
+PlacedObjects: ColouredLightSource><170.1982><186.2228><-352~-126~00FF19~124^-122~1~False~0~0.173913~0.1956522~After~0~1, ColouredLightSource><748><396><-199~7~FF4800~-474^-70~1~False~0~0~0.5~Always~0~100, ColouredLightSource><277><563><-461~-242~002FFF~395^-326~1~False~0~0~0.5~Always~0~100, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><822.5577><571.4451><0.4021739><0.9217392, SPOT><SO_IND-Turbine.ogg><60.32385><491.1859><0.4347826><0.9021739><249.3239><235.1859><-186.3553><-79.35535><0><0.2086958, 
+FadePalette: 17, 0.1956522

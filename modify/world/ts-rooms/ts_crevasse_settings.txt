@@ -1,0 +1,6 @@
+[FIND]HSLDisplaySnow-0.1630435-1071-415-Luminosity:23.91304-EndHue:0-EndLuminosity:0-Hue:0-AffectSnowfall:True-LerpRainCycle:False-LerpNightCycle:False-Luminosity:23.91304-EndHue:0-EndLuminosity:0-Hue:0-AffectSnowfall:True-LerpRainCycle:False-LerpNightCycle:False, 
+[REPLACE]
+[MERGE]
+WaveAmplitude: 1.836598E-09
+Effects: HSLDisplaySnow-0.1630435-1071-415-Luminosity:23.91304-EndHue:0-EndLuminosity:0-Hue:0-AffectSnowfall:True-LerpRainCycle:False-LerpNightCycle:False, 
+[ENDMERGE]

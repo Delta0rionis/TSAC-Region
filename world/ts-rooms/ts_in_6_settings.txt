@@ -1,0 +1,8 @@
+DangerType: None
+Clouds: 1
+Grime: 0.05434782
+Palette: 0
+Effects: ZeroG-0.6195652-11-20, ZeroGSpecks-0.3804348-19-80, 
+PlacedObjects: LightFixture><97.05685><591.5582><RedLight~17.32051~-10~2, LightFixture><832.8303><613.3169><RedLight~17.32051~-10~59, LightFixture><448.8564><384.0807><DeepProcessing~17.32051~-10~42, LightFixture><124.3563><215.6391><RedLight~-303.6795~-22~56, LightFixture><848.6558><243.8745><RedLight~17.32051~-10~91, SuperStructureFuses><230.5535><311.2129><98~68, LightSource><495.3241><591.0952><0.8586956~Environment~0~100~113~-112.3975~0~0~None~0~0, LightSource><490.4288><78.16049><0.5652174~White~-59~62~50~86.60254~0~0~None~0~0, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><860.1893><600.9353><0.326087><0.9608696, OMNI><AM_IND-Utility02.ogg><857.3799><521.0901><0.2173913><1, SPOT><SO_SFX-DataStream.ogg><119.1462><476.1135><0.5><1><279.1462><357.1135><-35.35534><-35.35534><0><0.1, SPOT><SO_IND-FlourLight.ogg><111.7><301.248><0.2065217><1><836.7><234.248><-73.35535><-47.35535><0><0.1, 
+FadePalette: 8, 0.8695652

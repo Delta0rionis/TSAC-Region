@@ -1,0 +1,17 @@
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveAmplitude: 0.0326087
+SecondWaveAmplitude: 0
+Clouds: 0
+Grime: 0.0326087
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+Palette: 0
+EffectColorA: 19
+EffectColorB: 21
+Effects: WaterDepth-0.2282609-1082-51, SilenceWater-0.4891304-1078-111, ZeroG-0-33-95, Fog-0.1630435-303-94, Contrast-0.4347826-30-34, 
+PlacedObjects: LightSource><309.0659><461.5782><0.3369565~EffectColor1~123~-93~50~86.60254~0~0~None~0~0, LightFixture><747.3497><456.8266><RedLight~17.32051~-10~48, LightFixture><396><74><RedLight~17.32051~-10~48, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><853.1368><611.4149><0.2391304><1, OMNI><SO_IND-HVAC.ogg><857.8013><521.9771><0><1, OMNI><SO_SFX-LakeBottom.ogg><666.354><606.6708><0.4021739><0.7652174, OMNI><SO_SFX-DeepLake.ogg><668.9629><522.8035><0><1, 
+FadePalette: 8, 0.9239131

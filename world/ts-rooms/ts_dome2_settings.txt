@@ -1,0 +1,13 @@
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0
+Grime: 0.1413043
+Palette: 33
+EffectColorA: 8
+Effects: AboveCloudsView-1-20-20, Coldness-0.1956522-13-80, SandPuffs-0.3913043-281-17, Dustpuffs-1-270-75, HeatWave-0.09782609-18-134, 
+PlacedObjects: ColoredLightBeam><1688.437><1090.429><-319~-196~-319~-185~-6~9~-419~42~0.9782609~0~1~0~Flash~0.25~0~EffectColor1~EffectColor1~EffectColor1~EffectColor1~EffectColor1~EffectColor1~EffectColor1, LocalBlizzard><658.8485><989.8259><-238~92~-280~164.6025~0.4456522~0.7391304~0, 
+FadePalette: 76, 0.5978261, 0.5978261, 0.6086956
+BackgroundOffset: 5000,5000
+BackgroundType: atc_tm

@@ -1,0 +1,4 @@
+[MERGE]
+PlacedObjects: LightSource><419.3241><494.0952><1~Environment~0~100~50~86.60254~1~0~None~0~0, 
+AmbientSounds: SPOT><SO_IND-FlourLight.ogg><111.7><301.248><0.2065217><1><836.7><234.248><-73.35535><-47.35535><0><0.1, 
+[ENDMERGE]
