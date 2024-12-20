@@ -7,6 +7,6 @@ Grime: 0
 Palette: 24
 EffectColorA: 5
 EffectColorB: 20
-Effects: SunBlock-0-20-20, ZeroG-1-20-77, SSSwarmers-0.05434782-278-21, Bloom-0.3586957-275-77, ZeroGSpecks-0.3695652-17-128, Darkness-0-269-136, Contrast-0.08695652-536-22, 
-PlacedObjects: CoralNeuron><281.0534><166.5367><376~315, SpotLight><275.6677><143.609><-17~346~424~357~465~27, LightSource><470.8142><354.0741><0.06521739~EffectColor2~-566~14~164~172.6025~0~1~None~0~0, 
+Effects: SunBlock-0-20-20, ZeroG-1-20-77, SSSwarmers-0.05434782-278-21, Bloom-0.3586957-275-77, ZeroGSpecks-0.3695652-17-128, 
+PlacedObjects: CoralNeuron><281.0534><166.5367><376~315, SpotLight><169.6677><228.609><35~391~530~361~491~-35, LightSource><470.8142><354.0741><0.06521739~EffectColor2~-566~14~164~172.6025~0~1~None~0~0, 
 FadePalette: 99, 1
