@@ -7,7 +7,7 @@ WaveAmplitude: 0.05434782
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Grime: 0
-EffectColorA: 8
+EffectColorA: 5
 EffectColorB: 20
 Effects: WaterDepth-0.2173913-20-20, SilenceWater-0.4021739-22-81, 
 PlacedObjects: LightFixture><774.551><471.7695><RedLight~17.32051~-10~8, LightFixture><202.5681><448.312><RedLight~17.32051~-10~55, LightFixture><229.8005><-118.7641><RedLight~-295.6795~-60~2, LightFixture><813.676><-141.0951><RedLight~17.32051~-10~92, LightFixture><-65.23053><198.801><RedLight~17.32051~-10~88, LightFixture><1040.575><198.5969><RedLight~-147.6794~-142~26, LightFixture><503.446><443.7101><RedLight~17.32051~-10~86, CommonGateData><481.4175><257.5678><118~-120~False~False~False~False~False~False~False~False~0~1~1, 
