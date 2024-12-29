@@ -10,5 +10,5 @@ Palette: 24
 EffectColorA: 5
 EffectColorB: 20
 Effects: ZeroG-1-20-20, SSSwarmers-0.05434782-21-78, ZeroGSpecks-0.5326087-19-131, Bloom-0.6739131-275-22, SunBlock-0-279-75, ProjectedScanLines-0.1304348-277-135, 
-PlacedObjects: WallMycelia><107.3042><2074.791><83~-97, SuperStructureFuses><149.289><2170.946><178~73, SuperStructureFuses><811.122><2120.596><120~104, SuperStructureFuses><469.4488><51.2718><220~140, SuperStructureFuses><830.9111><49.38152><119~132, LightSource><447.5566><499.9489><0.08695652~White~-545~-285~353~-160.3975~0~1~None~0~0, CoralStem><465.3073><2108.303><-19~-326, SuperStructureFuses><398.3364><1616.135><119~116, LightSource><847.5521><1942.471><0.5217391~EffectColor1~-204~-234~36~-128.3975~0~0~None~0~0, 
-FadePalette: 10, 0.75, 0.4565217, 0.1630435
+PlacedObjects: WallMycelia><107.3042><2074.791><83~-97, SuperStructureFuses><149.289><2170.946><178~73, SuperStructureFuses><811.122><2120.596><120~104, SuperStructureFuses><469.4488><51.2718><220~140, SuperStructureFuses><830.9111><49.38152><119~132, LightSource><447.5566><499.9489><0.08695652~White~-545~-285~353~-160.3975~0~1~None~0~0, CoralStem><465.3073><2108.303><-19~-326, SuperStructureFuses><390.3364><1608.135><119~116, LightSource><847.5521><1942.471><0.5217391~EffectColor1~-204~-234~36~-128.3975~0~0~None~0~0, 
+FadePalette: 10, 0.2717391, 0.4565217, 0.6521739

@@ -5,7 +5,7 @@ RumbleIntensity: 0
 Clouds: 0
 Grime: 0
 RandomItemSpearChance: 0.04347826
-Palette: 24
+Palette: 23
 EffectColorA: 5
 EffectColorB: 20
 Effects: ZeroG-1-20-20, Bloom-0.8369565-20-74, ZeroGSpecks-0.25-23-131, SunBlock-1-279-20, BrokenZeroG-0-278-81, 

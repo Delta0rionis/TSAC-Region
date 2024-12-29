@@ -4,7 +4,7 @@ RainIntensity: 0
 RumbleIntensity: 0
 Clouds: 0
 Grime: 0
-Palette: 24
+Palette: 23
 EffectColorA: 5
 EffectColorB: 20
 Effects: SunBlock-0-20-20, ZeroG-1-20-77, SSSwarmers-0.05434782-278-21, Bloom-0.3586957-275-77, ZeroGSpecks-0.3695652-17-128, 

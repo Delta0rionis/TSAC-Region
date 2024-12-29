@@ -10,8 +10,8 @@ Clouds: 1
 Grime: 0.04347826
 Palette: 0
 EffectColorA: 20
-EffectColorB: 4
+EffectColorB: 5
 Effects: WaterDepth-0.1304348-20-20, WaterFluxMaxLevel-0.2173913-1072-569, WaterFluxMinLevel-0-1074-511, WaterFluxMinDelay-0.06521739-1076-445, WaterFluxMaxDelay-0-1078-386, WaterFluxFrequency-0.2391304-1077-330, WaterFluxSpeed-0.6521739-1080-266, Contrast-0.1086956-278-19, ZeroG-0.1304348-25-81, 
-PlacedObjects: LightFixture><-67.078><571.8158><RedLight~17.32051~-10~1, LightFixture><43.96353><225.5533><RedLight~17.32051~-10~71, LightFixture><1043.58><509.6052><RedLight~-265.6795~38~19, LightFixture><1039.306><186.049><RedLight~-252.6795~18~58, LightFixture><677.8004><263.9871><RedLight~99.3205~20~16, LightFixture><342.1418><481.5818><RedLight~17.32051~-10~88, SlimeMold><724.8807><613.9106><91~30~2~3~0<lc>0, SlimeMold><716.5424><562.3046><-25~-172~2~3~0<lc>0, LightFixture><736.6168><587.0876><SlimeMoldLight~18.3205~-112~24, LightSource><592.0016><653.8><0.7173913~White~-29~-77~-339~-95.39746~0~0~None~0~0, 
+PlacedObjects: LightFixture><-67.078><571.8158><RedLight~17.32051~-10~1, LightFixture><43.96353><225.5533><RedLight~17.32051~-10~71, LightFixture><1043.58><509.6052><RedLight~-265.6795~38~19, LightFixture><1039.306><186.049><RedLight~-252.6795~18~58, LightFixture><677.8004><263.9871><RedLight~99.3205~20~16, LightFixture><342.1418><481.5818><RedLight~17.32051~-10~88, SlimeMold><724.8807><613.9106><91~30~2~3~2<lc>0, SlimeMold><716.5424><562.3046><-25~-172~2~3~2<lc>0, LightFixture><736.6168><587.0876><SlimeMoldLightB~18.3205~-112~24, LightSource><592.0016><653.8><0.7173913~White~-29~-77~-339~-95.39746~0~0~None~0~0, CustomCosmeticSlimeMold><726.9499><583.5071><-297~-75~False~1~-75^8, 
 AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><862.0596><600.6886><0.3804348><1, SPOT><SO_WAT-OpenFlow.ogg><660.0787><553.1469><0.5><1><274.0787><243.1468><-224.3553><326.6447><0><0.2413045, OMNI><AM_IND-ElectricHum01.ogg><855.3726><523.342><0.4347826><1, 
 FadePalette: 8, 0.8478261

@@ -1,0 +1,8 @@
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+Grime: 0
+Palette: 23
+Effects: SunBlock-0-20-20, ZeroG-0.6195652-282-22, 
+PlacedObjects: ZapCoil><474.6853><290.4393><40~155, PlacedWaterfall><218.3745><641.9066><101~-83~0.5217444~2, PlacedWaterfall><738.0541><638.5402><100~50~0.5217444~2, LightFixture><495.6616><365.3821><ZapCoilLight~17.32051~-10~41, 
+FadePalette: 10, 0.3804348
