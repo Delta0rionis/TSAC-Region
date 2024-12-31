@@ -17,15 +17,4 @@ Long-Term Goals
 -New dialogue for existing colored pearls
 -Connect to Vanilla/Downpour maps?
 -Different slugcat worldstates?
-
-Dependencies:
-IteratorKit
-Custom Regions Support
-Lunacy
-Regionkit
-
-
-CREDITS:
-Three Stars Above Clouds (C) DeltaOrionis
-Rain World (C) VideoCult
-Region art by mebis-art-dump (tumblr)
+-Pump Station Region
