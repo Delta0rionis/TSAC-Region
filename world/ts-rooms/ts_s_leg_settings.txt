@@ -4,9 +4,9 @@ WaveLength: 0.9918421
 WaveAmplitude: 0.03523617
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
-Clouds: 0.04347826
+Clouds: 0.2391304
 Grime: 0
 Palette: 14
-Effects: Lightning-0.6739131-27-124, 
+Effects: Lightning-0.2608696-27-124, 
 PlacedObjects: LightFixture><739.3093><253.441><RedLight~-202.6795~78~14, LightFixture><200.2864><540.9467><RedLight~17.32051~-10~28, 
 FadePalette: 17, 0.8260869

@@ -1,0 +1,8 @@
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0
+Palette: 24
+Effects: ZeroG-1-20-20, SunBlock-0-281-19, 
+PlacedObjects: SpotLight><219.5736><163.9058><-7~424~532~430~566~-3, 

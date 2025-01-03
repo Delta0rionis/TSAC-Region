@@ -1,0 +1,5 @@
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Effects: ZeroG-1-20-20, SSMusic-0.1195652-283-18, 

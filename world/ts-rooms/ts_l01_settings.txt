@@ -1,0 +1,9 @@
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0
+Palette: 23
+Effects: ZeroG-1-30-30, SuperStructureProjector-1-28-89, SunBlock-0-293-28, SSMusic-0.1847826-300-93, SSSwarmers-0.05434782-30-146, 
+PlacedObjects: CoralNeuron><1821.931><966.165><92~-818, CoralNeuron><1124.77><1087.699><-49~-943, CoralNeuron><1886.87><966.3402><445~-664, CoralNeuron><1080.581><1086.607><-369~-782, 
+FadePalette: 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0

@@ -1,0 +1,10 @@
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0
+Grime: 0
+Palette: 23
+Effects: ZeroG-1-20-20, SunBlock-1-273-18, SuperStructureProjector-0.3695652-261-79, GreenSparks-0.2282609-273-138, ZeroGSpecks-0.2391304-21-80, Bloom-0.1304348-13-138, 
+PlacedObjects: GravityDisruptor><1511.693><1149.196><, CoralStem><383.8403><142.1205><11~482, WallMycelia><350.0536><144.5378><-80~165, ProjectedStars><413.0665><400.5796><-138~156, LittlePlanet><545.0201><660.301><0~100~Color(~0~1~0~)~Alpha:~0.9130435~0~0~Speed:~0.1521739, CoralNeuron><2904.409><1723.629><-307~435, CoralNeuron><370.6122><1961.645><626~-339, DeepProcessing><86.05005><104.0031><5~2188~2891~2120~2901~10~0~0~1~1~0.09782609, 
+FadePalette: 99, 0.25, 0.25, 0.2608696, 0.2608696, 0.25, 0.25, 0.25, 0.25, 0.25

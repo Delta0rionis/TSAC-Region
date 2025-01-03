@@ -1,4 +1,3 @@
-Template: TS_SettingsTemplate_Lab
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
@@ -13,8 +12,7 @@ WaterReflectionAlpha: 0
 Palette: 24
 EffectColorA: 5
 EffectColorB: 12
-Effects: ZeroG-1-20-20, SSSwarmers-0.2065217-283-23, Bloom-0.8152174-18-82, SunBlock-0-25-134, ZeroGSpecks-0.2934783-273-89, 
-PlacedObjects: CoralStem><209.2979><530.4442><1~-136, SuperStructureFuses><837.5522><101.0298><46~99, SuperStructureFuses><152.7769><551.6982><115~42, WallMycelia><514.5708><611.1611><-4~-88, WallMycelia><606.6932><147.0514><0~100, WallMycelia><138.3214><378.6868><115~-3, CoralNeuron><276.9436><198.45><426~299, SpotLight><186.9094><231.8708><-29~428~496~423~413~9, LightSource><850.1636><534.3651><0.7934783~EffectColor1~-175~-162~55~-334.3975~0~0~None~0~0, LightSource><138><280><0.8586956~EffectColor2~-79~-114~64~-77.39749~0~0~None~0~0, LightningMachine><830.1504><562.5765><-350~-142~0~0~-1~44.60254~-2~-118~0~1~0~0.0608693~0.5434783~1~0.2717391~0.326087~0~0.08695652~0~0~1, UniqueDataPearl><828.9138><584.0696><0~0~0~0~SH~0, UniqueDataPearl><830.4773><541.1987><0~0~0~0~CC~0, UniqueDataPearl><828.964><509.4467><0~0~0~0~SI_top~0, UniqueDataPearl><828.0475><484.3057><0~0~0~0~HI~0, UniqueDataPearl><830.5706><459.8383><0~0~0~0~SB_filtration~0, DeepProcessing><311.6584><221.628><-4~308~330~312~329~-11~-236~-130~1~1~0, CoralStem><814><212><-155~106, ProjectedStars><473.4722><375.5519><-262~108, 
-AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><122.0341><541.3029><0.5><1, OMNI><SO_SFX-Drowning.ogg><125.5474><465.3057><0.5><1, SPOT><SO_SFX-Celia.ogg><784.8297><164.3951><0.173913><1><475.8297><374.3951><-101.3553><-199.3553><0><0.1326088, SPOT><SO_SFX-Heartbeat1.ogg><757.9215><291.816><0.7065217><0.4326087><477.9214><372.816><-106.3553><-91.35535><0><0.1869567, SPOT><SO_IND-Deep50hz.ogg><777.3136><520.6775><0.4456522><1.117391><852.3136><521.6775><-67.35535><-71.35535><0><0.1, 
-FadePalette: 99, 0
+Effects: ZeroG-1-20-20, SSSwarmers-0.1413043-283-23, Bloom-0.8152174-18-82, SunBlock-0-25-134, ZeroGSpecks-0.2934783-287-82, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><862.0341><616.3029><0.2608696><1, OMNI><SO_SFX-Drowning.ogg><863.5474><539.3057><0.2717391><1, OMNI><SO_SFX-Heartbeat1.ogg><862.5502><457.992><0.4130435><0.6478261, 
+FadePalette: 99, 0, 0, 0, 0
 WetTerrain: OFF
