@@ -2,4 +2,8 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
+Clouds: 0
+Grime: 0.2065217
 Effects: ZeroG-0.1521739-20-20, 
+PlacedObjects: SeedCob><774.058><222.0586><83~39~1~10, DeadSeedCob><837.3059><260.7981><, CustomDecal><1373.536><920.3033><-2~380~412~382~417~-4~-463~70~0~1~0~unq - plate5~1~0~1~0~1~0~1~0, 
+WetTerrain: OFF

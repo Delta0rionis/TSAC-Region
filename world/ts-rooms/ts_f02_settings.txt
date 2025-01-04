@@ -2,4 +2,7 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-Effects: ZeroG-1-20-20, 
+Grime: 0
+RandomItemDensity: 0.3913043
+Palette: 23
+Effects: ZeroG-1-20-20, SSSwarmers-0.6413044-22-71, ZeroGSpecks-0.2608696-284-20, SunBlock-1-287-77, SuperStructureProjector-0.02173913-23-128, 

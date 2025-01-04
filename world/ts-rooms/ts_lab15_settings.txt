@@ -2,4 +2,5 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
+RandomItemDensity: 0.2608696
 Effects: ZeroG-1-20-20, 

@@ -1,1 +1,2 @@
+Effects: ZeroG-0.423913-20-20, 
 PlacedObjects: GravityDisruptor><1531.458><347.5545><, 
