@@ -2,4 +2,10 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-Effects: ZeroG-1-20-20, 
+Grime: 0
+RandomItemDensity: 0
+Palette: 23
+EffectColorA: 5
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.1630435-17-82, SunBlock-1-283-18, Bloom-0.2826087-268-84, Darkness-0.4456522-25-132, DarkenLights-0.4673913-287-132, 
+PlacedObjects: CoralStem><718.0902><549.8704><15~137, WallMycelia><653.1385><565.8557><0~100, WallMycelia><712.5934><145.5731><-8~-134, WallMycelia><35.55627><253.8081><106~56, LightSource><1057.319><287.914><1~EffectColor1~-113~105~-147~142.6025~0~0~None~0~0, LightFixture><287.9135><608.6348><RedLight~17.32051~-10~91, LightFixture><-95.16513><121.6811><RedLight~17.32051~-10~51, LightFixture><551.808><114.3067><RedLight~-216.6795~-145~34, LightFixture><-30.6008><409.8831><ZapCoilLight~17.32051~-10~14, LightFixture><1116.575><577.3475><RedLight~-213.6795~31~7, WallMycelia><1054.078><532.1019><-106~45, DeepProcessing><-194.3291><-36.89606><-3~772~1365~796~1464~5~126~44~1~1~0.04347826, LightSource><914><262><1~EffectColor1~-66~63~-355~-39.39746~0~0~None~0~0, LightSource><893.8401><716.8701><1~White~-329~-158~-259~-167.3974~0~0~None~0~0, LightFixture><1043><-16><ZapCoilLight~-133.6795~29~10, 
+FadePalette: 31, 0.3913043
