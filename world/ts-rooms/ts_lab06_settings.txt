@@ -2,4 +2,7 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-Effects: ZeroG-1-20-20, 
+Grime: 0.06521739
+Palette: 24
+Effects: ZeroG-1-20-20, SSSwarmers-0.1630435-22-78, SunBlock-0-277-23, ZeroGSpecks-0.25-279-79, Bloom-0.3804348-26-130, 
+PlacedObjects: CoralCircuit><424.7218><247.802><-13~68, CoralCircuit><542.076><222.0986><6~47, CoralNeuron><302.6969><76.21472><111~162, WallMycelia><862.373><563.3423><-99~-53, SuperStructureFuses><411.5652><-11.68909><67~97, SuperStructureFuses><131.1578><230.3771><58~55, SuperStructureFuses><891.6809><429.3353><102~82, SuperStructureFuses><70.05212><571.5292><134~52, SuperStructureFuses><813.371><288.9028><21~122, WallMycelia><108.3444><96.87444><49~78, WallMycelia><129.9818><555.6992><64~-81, WallMycelia><197.698><258.5279><73~4, WallMycelia><911.8099><84.1908><-88~80, SpotLight><670.4253><212.4355><73~430~-400~393~-488~-60, WallMycelia><294.6081><592.3591><10~-117, LightSource><470.5077><628.9498><1~Environment~40~-99~67~-179.3975~0~0~None~0~0, LightSource><959.3251><350.0646><0.9239131~Environment~-115~-17~-346~-128.3975~0~0~None~0~0, LightSource><483.0525><330.9688><0.1304348~White~-607~-19~-304~-181.3975~0~1~None~0~0, WallMycelia><453.8408><75.879><-9~132, DeepProcessing><276.1438><131.389><-1~382~436~386~424~-3~-271~-140~1~1~0, 
