@@ -1,0 +1,11 @@
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0
+Grime: 0.04347826
+Palette: 30
+EffectColorA: 5
+Effects: Dustpuffs-0.2608696-20-20, RoofTopView-1-284-18, PixelShift-0.2391304-18-77, Flies-0-283-74, Desaturation-0-24-130, 
+FadePalette: 25, 0.2608696, 0.2608696
+BackgroundType: rf_lookstothemoon
