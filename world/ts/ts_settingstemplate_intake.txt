@@ -1,0 +1,16 @@
+DangerType: Flood
+CeilingDrips: 0.7826087
+RainIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 0.001560648
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0.04347826
+Palette: 0
+EffectColorA: 20
+EffectColorB: 5
+Effects: WaterDepth-0.1304348-20-20, WaterFluxMaxLevel-0.2173913-1072-569, WaterFluxMinLevel-0-1074-511, WaterFluxMinDelay-0.06521739-1076-445, WaterFluxMaxDelay-0-1078-386, WaterFluxFrequency-0.2391304-1077-330, WaterFluxSpeed-0.6521739-1080-266, Contrast-0.1086956-278-19, ZeroG-0.1304348-25-81, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><862.0596><600.6886><0.3804348><1, OMNI><AM_IND-ElectricHum01.ogg><855.3726><523.342><0.4347826><1, 
+FadePalette: 8, 0.8478261

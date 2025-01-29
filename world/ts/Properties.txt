@@ -1,4 +1,5 @@
 
+Palette: 23
 overseersSpawnChance: 0
 overseersMin: 0
 overseersMax: 0
@@ -6,7 +7,7 @@ earlyCycleChance: 0.0
 earlyCycleFloodChance: 0.0
 playerGuideOverseerSpawnChance: 0.0
 pupSpawnChance: 0.0
-Room Setting Templates: Lab, Intake, CPU
+Room Setting Templates: Inside, Lab, Intake, CPU, Archive, Leg, Nadir, Outside
 Subregion: Three Stars Above Clouds
 Subregion: Three Stars Above Clouds (Data Archive)
 Subregion: Three Stars Above Clouds (Cognitive Nexus)

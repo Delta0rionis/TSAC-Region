@@ -1,0 +1,13 @@
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 1
+Grime: 0
+RandomItemDensity: 0.4130435
+WaterReflectionAlpha: 0
+Palette: 23
+EffectColorA: 8
+EffectColorB: 12
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.5434783-21-81, Bloom-0.1195652-24-139, SunBlock-1-272-73, 
+AmbientSounds: OMNI><SO_SFX-Drowning.ogg><850.401><610.6188><0.3913043><1, OMNI><AM_IND-SuperStructure.ogg><848.4238><450.5989><0.423913><1, 
+WetTerrain: OFF

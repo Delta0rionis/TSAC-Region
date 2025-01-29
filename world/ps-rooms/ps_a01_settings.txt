@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.3586957
+RainIntensity: 0
+WaveSpeed: 0.4843462
+WaveLength: 0.551305
+WaveAmplitude: 0.07608695
+SecondWaveLength: 0.3949273
+SecondWaveAmplitude: 0
+Clouds: 0
+Grime: 0.173913
+Palette: 12

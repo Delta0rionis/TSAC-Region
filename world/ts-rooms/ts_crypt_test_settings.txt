@@ -1,0 +1,7 @@
+Template: TS_SettingsTemplate_Nadir
+RainIntensity: 0
+Clouds: 0.6304348
+Grime: 0
+Effects: Dustpuffs-0.2717391-20-125, Coldness-0.02173913-266-14, 
+AmbientSounds: OMNI><AM_IND-Warehouse01.ogg><696.6986><618.9766><0.1304348><1, 
+FadePalette: 41, 0.1956522, 0.2934783

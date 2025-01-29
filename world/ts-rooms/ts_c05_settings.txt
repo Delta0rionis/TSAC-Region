@@ -1,3 +1,4 @@
+Template: TS_SettingsTemplate_Archive
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0

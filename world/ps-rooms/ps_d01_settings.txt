@@ -1,0 +1,18 @@
+Template: NONE
+DangerType: AerieBlizzard
+CeilingDrips: 0.2391304
+RainIntensity: 0.1847826
+RumbleIntensity: 0.3043478
+WaveSpeed: 0.5002096
+WaveLength: 0.9998952
+WaveAmplitude: 0.00199135
+SecondWaveLength: 0.1666668
+SecondWaveAmplitude: 0
+Clouds: 0.6956522
+BkgDroneVolume: 0.05000007
+BkgDroneNoThreatVolume: 1
+Palette: 12
+EffectColorA: 1
+EffectColorB: 5
+Effects: Coldness-0.04347826-276-22, IceWater-1-289-79, 
+FadePalette: 14, 0.6086956, 0.6195652, 0.8260869, 0.8260869

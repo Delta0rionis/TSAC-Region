@@ -1,0 +1,7 @@
+DangerType: None
+Clouds: 0.3152174
+Grime: 0
+Palette: 14
+EffectColorA: 20
+EffectColorB: 8
+Effects: GreenSparks-0.1521739-20-20, Lightning-0.4456522-24-76, ExtraLoudThunder-0.4130435-17-133, Coldness-0.01086957-281-18, 
