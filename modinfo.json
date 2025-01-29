@@ -1,0 +1,12 @@
+{
+	"id": "TSAC",
+	"name": "Three Stars Above Clouds",
+	"version": "0.0.0",
+	"hide_version": true,
+	"authors": "DeltaOrionis",
+	"description": "Custom region for the iterator OC Three Stars Above Clouds. <LINE>Still a very early work in progress. <LINE>[More info: threestarsaboveclouds.tumblr.com]",
+	"requirements": ["crs", "regionkit", "nacu.lunacy"],
+	"requirements_names": ["Custom Regions Support", "RegionKit", "Lunacy"],
+	"checksum_override_version": false,
+	"tags": ["Region"]
+}
