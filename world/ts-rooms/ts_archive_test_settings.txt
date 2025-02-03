@@ -1,0 +1,4 @@
+Template: TS_SettingsTemplate_Archive
+Clouds: 0
+PlacedObjects: SpotLight><116.5677><127.4177><132~531~686~541~579~20, 
+FadePalette: 24, 0.1413043

@@ -15,4 +15,5 @@ Subregion: Three Stars Above Clouds (Memory Conflux)
 Subregion: Three Stars Above Clouds (Sequential Processing Syzygy)
 Subregion: Intake Ducts
 Subregion: Vertex Spires
-Room_Attr: TS_ARCHIVE: Inspector-Like,
+Room_Attr: TS_LAB02: Inspector-Stay,
+Room_Attr: TS_FAKEGATE2: WhiteLizard-Forbidden,LanternMouse-Forbidden,
