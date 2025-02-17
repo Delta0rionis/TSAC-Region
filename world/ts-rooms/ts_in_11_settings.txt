@@ -1,6 +1,12 @@
+Template: NONE
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-Palette: 0
-Effects: ZeroG-0.9456522-20-20, 
+Clouds: 0
+Grime: 0
+Palette: 23
+EffectColorA: 20
+EffectColorB: 5
+Effects: ZeroG-0.7717391-20-20, SunBlock-0-290-29, 
+FadePalette: 10, 0.4456522, 0.4456522, 0.423913

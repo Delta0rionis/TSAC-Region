@@ -3,4 +3,12 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-Effects: ZeroG-0.1413043-20-20, 
+Clouds: 0.1521739
+Grime: 0
+RandomItemDensity: 0
+Palette: 1
+EffectColorA: 8
+EffectColorB: 20
+Effects: ZeroG-0.1413043-20-20, LightBurn-0-25-79, SkyAndLightBloom-0-21-132, Contrast-0.0326087-294-18, 
+PlacedObjects: SuperStructureFuses><30.44611><349.4608><117~239, LightSource><764.6296><466.3403><0.1521739~EffectColor1~-87~51~50~86.60254~0~1~None~0~0, LightSource><765><346><0.1521739~EffectColor1~-60~77~50~86.60254~0~1~None~0~0, LightSource><760><231><0.1086956~EffectColor1~-65~87~50~86.60254~0~1~None~0~0, LightSource><759><106><0.1195652~EffectColor1~-77~80~50~86.60254~0~1~None~0~0, 
+FadePalette: 32, 0.6304348

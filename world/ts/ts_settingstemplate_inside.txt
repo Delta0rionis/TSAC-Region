@@ -6,5 +6,5 @@ Clouds: 1
 Palette: 24
 EffectColorA: 20
 EffectColorB: 5
-Effects: ZeroG-1-20-20, SSSwarmers-0.02173913-287-24, ZeroGSpecks-0.2173913-22-80, 
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.2173913-22-80, 
 AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><855.4412><605.6912><0.4347826><1, OMNI><SO_SFX-Drowning.ogg><854.9484><530.0253><0.3478261><1, 

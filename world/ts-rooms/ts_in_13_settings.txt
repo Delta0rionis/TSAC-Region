@@ -1,4 +1,4 @@
-Template: TS_SettingsTemplate_Intake
+Template: NONE
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0

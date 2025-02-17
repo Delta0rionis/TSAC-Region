@@ -1,16 +1,22 @@
 DangerType: Flood
-CeilingDrips: 0.7826087
+CeilingDrips: 0.173913
 RainIntensity: 0
+RumbleIntensity: 0
 WaveSpeed: 0.5
 WaveLength: 1
-WaveAmplitude: 0.001560648
+WaveAmplitude: 0.002892008
 SecondWaveLength: 0.1666667
-SecondWaveAmplitude: 0
+SecondWaveAmplitude: 0.04347826
 Clouds: 1
-Grime: 0.04347826
+Grime: 0
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
 Palette: 0
-EffectColorA: 20
-EffectColorB: 5
-Effects: WaterDepth-0.1304348-20-20, ZeroG-0.1304348-25-81, 
-AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><862.0596><600.6886><0.3804348><1, OMNI><AM_IND-ElectricHum01.ogg><855.3726><523.342><0.4347826><1, 
-FadePalette: 8, 0.8478261
+EffectColorA: 19
+EffectColorB: 21
+Effects: Fog-0.04347826-12-18, Contrast-0.1086956-268-19, WaterDepth-0.1630435-15-75,  
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><859.8355><530.3862><0.3369565><1, OMNI><AM_SUB-MysticCave2.ogg><860.468><607.8026><0.06521739><0.7456522, OMNI><AM_IND-ElectricHum01.ogg><855.3726><523.342><0.4347826><1, 
+FadePalette: 8, 0.6195652
