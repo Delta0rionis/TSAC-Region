@@ -2,7 +2,7 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-Clouds: 1
+Clouds: 0
 Grime: 0.1521739
 WaterReflectionAlpha: 0
 Palette: 26

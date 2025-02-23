@@ -1,6 +1,9 @@
-Template: NONE
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-Effects: ZeroG-1-20-20, ZeroGSpecks-0.1521739-16-75, 
+Grime: 0
+Palette: 23
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.2065217-16-75, SunBlock-0-282-18, 
+PlacedObjects: LightSource><3914.577><160.1007><1~EffectColor2~-54~172~53~-85.39746~0~0~None~0~0, LightSource><228.4486><650.2736><1~Environment~-12~-121~255~-197.3975~0~0~None~0~0, PWLightrod><208.2852><653.3031><-318.6795~-200~0.4891304~180~575.6526~0.1413043~1~0.173913~0~1~0.173913~0, LightFixture><365.2609><435.4497><RedLight~17.32051~-10~34, LightFixture><-20.3259><260.3484><RedLight~17.32051~-10~38, LightFixture><531.8057><99.29715><RedLight~17.32051~-10~68, LightFixture><853.1322><357.3383><RedLight~17.32051~-10~23, LightFixture><1367.442><387.4424><RedLight~17.32051~-10~74, LightFixture><1372.085><90.3627><RedLight~17.32051~-10~7, LightFixture><2125.547><425.6943><RedLight~17.32051~-10~87, LightFixture><2495.358><50.14114><RedLight~17.32051~-10~13, LightFixture><2854.505><385.4499><RedLight~17.32051~-10~30, LightFixture><3653.622><428.1584><RedLight~17.32051~-10~56, LightFixture><3393.562><92.56915><RedLight~17.32051~-10~81, LightSource><3214><107><1~EffectColor2~-46~126~53~-85.39746~0~0~None~0~0, LightSource><3566><452><1~EffectColor1~-47~125~53~-85.39746~0~0~None~0~0, LightSource><2163><99><1~EffectColor2~-46~126~53~-85.39746~0~0~None~0~0, LightSource><2688><94><1~EffectColor1~-46~126~53~-85.39746~0~0~None~0~0, LightSource><1924><488><1~EffectColor1~-47~125~53~-85.39746~0~0~None~0~0, LightSource><2681><478><1~EffectColor1~-12~-121~255~-197.3975~0~0~None~0~0, LightSource><1612><412><1~EffectColor2~-12~-121~255~-197.3975~0~0~None~0~0, LightSource><1667><54><1~EffectColor1~-12~-121~95~-62.39751~0~0~None~0~0, LightSource><1164><75><1~EffectColor2~-12~-121~255~-197.3975~0~0~None~0~0, LightSource><857><399><1~EffectColor1~-12~-121~95~-62.39751~0~0~None~0~0, LightSource><593><58><1~EffectColor1~-12~-121~95~-62.39751~0~0~None~0~0, LightSource><209><66><1~EffectColor2~-12~-121~95~-62.39751~0~0~None~0~0, LightSource><368><550><1~EffectColor1~-12~-121~95~-62.39751~0~0~None~0~0, 
+FadePalette: 99, 0, 0.1413043, 0.3478261, 0.5543478
