@@ -1,10 +1,12 @@
-DangerType: None
+Template: NONE
+DangerType: Thunder
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
 Clouds: 0
 Grime: 0
 Palette: 23
-Effects: ZeroG-1-20-20, SunBlock-1-273-18, SuperStructureProjector-0.3695652-261-79, GreenSparks-0.2282609-273-138, ZeroGSpecks-0.2391304-21-80, Bloom-0.1304348-13-138, 
-PlacedObjects: GravityDisruptor><1528.693><1170.196><, CoralStem><383.8403><142.1205><11~482, WallMycelia><350.0536><144.5378><-80~165, ProjectedStars><413.0665><400.5796><-138~156, LittlePlanet><545.0201><660.301><0~100~Color(~0~1~0~)~Alpha:~0.9130435~0~0~Speed:~0.1521739, CoralNeuron><2904.409><1723.629><-307~435, CoralNeuron><370.6122><1961.645><626~-339, DeepProcessing><86.05005><104.0031><5~2188~2891~2120~2901~10~0~0~1~1~0.09782609, 
-FadePalette: 99, 0.25, 0.25, 0.2608696, 0.2608696, 0.25, 0.25, 0.25, 0.25, 0.25
+Effects: ZeroG-1-20-20, SunBlock-0-273-18, SuperStructureProjector-0.3695652-261-79, ZeroGSpecks-0.2391304-21-80, Bloom-0.1304348-13-138, 
+PlacedObjects: CoralStem><383.8403><142.1205><11~482, WallMycelia><350.0536><144.5378><-80~165, ProjectedStars><413.0665><400.5796><-138~156, LittlePlanet><373.0201><601.301><144~111~Color(~0~0.8913044~0.3369565~)~Alpha:~0.9130435~0~0~Speed:~0.173913, CoralNeuron><2904.409><1723.629><-307~435, CoralNeuron><370.6122><1961.645><626~-339, LittlePlanet><2261><1728><-125~150~Color(~0~1~0~)~Alpha:~0.9130435~0~0~Speed:~0.1521739, LittlePlanet><1034><1655><-100~151~Color(~0~1~0~)~Alpha:~0.9130435~-322~63~Speed:~0.1521739, LittlePlanet><1928><440><75~143~Color(~0~1~0~)~Alpha:~0.9130435~0~0~Speed:~0.1521739, LittlePlanet><2033><1188><-60~117~Color(~0~1~0.3152174~)~Alpha:~0.9130435~-96~4~Speed:~0.08695652, LittlePlanet><1763><911.7823><-11~51~Color(~0~1~0~)~Alpha:~1~-43~-186~Speed:~0.9347826, LittlePlanet><907><951><107~89~Color(~0~0.7934783~0.5~)~Alpha:~0.9130435~137~178~Speed:~0.1956522, LittlePlanet><1275><1424><42~-61~Color(~0~0.9239131~0.6956522~)~Alpha:~1~-314~-107~Speed:~0.5217391, WallMycelia><1526><1168><-106~158, GravityDisruptor><1531.093><1168.527><, CoralStem><1095.564><140.9253><107~416, CoralNeuron><309.4945><1203.7><716~-16, CoralNeuron><2811.432><1155.083><-871~-145, CoralNeuron><1534.574><1983.564><-7~-416, CoralNeuron><1559.484><296.9494><-61~447, CoralNeuron><2190.057><394.6972><301~295, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><855.1381><611.8553><0.25><1, OMNI><SO_SFX-Drowning.ogg><856.8218><445.9366><0.5><1, OMNI><SO_SFX-DataTrans2.ogg><860.3755><364.4057><0.3043478><1, OMNI><SO_SFX-Pi.ogg><857.6421><529.6684><0.5><1, OMNI><Deep Weird Wind.wav><857.8206><287.3128><0.1195652><1, SPOT><SO_SFX-Escape.ogg><28.43744><489.06><0.5><1><1531.438><1168.06><-120.3553><-194.3553><0><0.2086958, 
+FadePalette: 10, 0.3913043, 0.4021739, 0.4130435, 0.4130435, 0.423913, 0.4130435, 0.423913, 0.4347826, 0.4347826

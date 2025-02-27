@@ -2,4 +2,8 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-Effects: ZeroG-1-20-20, 
+Clouds: 0
+Grime: 0
+Palette: 23
+Effects: ZeroG-1-20-20, SunBlock-0-288-21, 
+WetTerrain: OFF

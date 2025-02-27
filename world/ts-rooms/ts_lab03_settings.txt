@@ -1,4 +1,4 @@
-Template: NONE
+Template: TS_SettingsTemplate_Lab
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
@@ -9,5 +9,5 @@ RandomItemDensity: 0.4347826
 RandomItemSpearChance: 0.1673912
 Palette: 24
 Effects: ZeroG-1-20-20, SunBlock-0-281-19, Bloom-0.6413044-17-79, SSSwarmers-0.1521739-19-132, ZeroGSpecks-0.173913-277-75, 
-PlacedObjects: SpotLight><241.5736><264.9058><-93~415~427~394~497~-5, WallMycelia><511.0994><631.3816><11~-108, WallMycelia><169.7745><412.8015><54~114, WallMycelia><718.8887><65.3559><-21~126, WallMycelia><286.7278><69.30121><66~114, LightSource><149.5842><572.3618><1~Environment~39~88~-291~-35.39746~0~0~None~0~0, LightSource><830.4276><610.8135><1~Environment~-82~56~97~-20.39746~0~0~None~0~0, LightSource><470.9625><72.05353><1~Environment~0~100~38~-76.39746~0~0~None~0~0, WallMycelia><744><643><-72~-57, SuperStructureFuses><152.1498><168.8269><21~75, SuperStructureFuses><148.8545><410.1372><25~27, SuperStructureFuses><811.9356><412.4255><23~23, LightSource><509.6044><371.8294><0.1304348~White~-559~-163~328~-19.39746~0~1~None~0~0, 
+PlacedObjects: SpotLight><241.5736><264.9058><-93~415~427~394~497~-5, WallMycelia><511.0994><631.3816><11~-108, WallMycelia><169.7745><412.8015><54~114, WallMycelia><718.8887><65.3559><-21~126, WallMycelia><286.7278><69.30121><66~114, LightSource><149.5842><572.3618><1~Environment~39~88~-291~-35.39746~0~0~None~0~0, LightSource><830.4276><610.8135><1~Environment~-82~56~97~-20.39746~0~0~None~0~0, LightSource><470.9625><72.05353><1~Environment~0~100~38~-76.39746~0~0~None~0~0, WallMycelia><744><643><-72~-57, SuperStructureFuses><152.1498><168.8269><21~75, SuperStructureFuses><148.8545><410.1372><25~27, SuperStructureFuses><811.9356><412.4255><23~23, LightSource><509.6044><371.8294><0.1304348~White~-559~-163~328~-19.39746~0~1~None~0~0, CoralNeuron><636.3846><271.1634><-302~216, 
 FadePalette: 100, 0

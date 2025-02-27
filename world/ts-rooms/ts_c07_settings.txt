@@ -3,4 +3,4 @@ CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
 RandomItemDensity: 0.4347826
-Effects: ZeroG-1-20-20, 
+Effects: ZeroG-1-20-20, SSMusic-0.04347826-278-20, 

@@ -14,9 +14,9 @@ BkgDroneNoThreatVolume: 1
 RandomItemDensity: 0.07608695
 RandomItemSpearChance: 0.02608689
 WaterReflectionAlpha: 1
-Palette: 99
-EffectColorA: 8
-EffectColorB: 13
-Effects: ZeroG-1-20-20, ZeroGSpecks-0.2173913-20-75, SunBlock-0-19-141, Bloom-0.6847826-543-22, SSSwarmers-0.1086956-282-20, Darkness-0.2717391-279-78, DarkenLights-0.1847826-277-146, 
+Palette: 46
+EffectColorA: 0
+EffectColorB: 0
+Effects: ZeroG-1-20-20, SSSwarmers-0.07608695-19-75, ZeroGSpecks-0.2608696-24-127, SunBlock-0-284-16, Bloom-0.4565217-279-73, ReplaceEffectColorA-1-543-15-Color-0-1-0.2282609, ReplaceEffectColorB-1-541-132-Color-0.173913-0-1, Darkness-0.9021739-273-130, ProjectedScanLines-0.08695652-796-25, DarkenLights-0.1847826-277-146, 
 AmbientSounds: OMNI><SO_SFX-Drowning.ogg><831.3334><655.1106><0.5><1, OMNI><SO_SFX-Heartbeat1.ogg><642.9612><649.8038><0.5><0.4326087, OMNI><AM_IND-SuperStructure.ogg><832.8789><576.653><0.5><1, 
-FadePalette: 23, 0
+FadePalette: 99, 0.4891304
