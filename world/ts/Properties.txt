@@ -1,5 +1,8 @@
 
 Palette: 23
+overseersColorOverride(1.0, 0.18, 0.0):1.0
+inspectorColor(1.0, 0.18, 0.0)
+guideColor(1.0, 0.18, 0.0)
 overseersSpawnChance: 0
 overseersMin: 0
 overseersMax: 0
@@ -15,5 +18,5 @@ Subregion: Three Stars Above Clouds (Memory Conflux)
 Subregion: Three Stars Above Clouds (Sequential Processing Syzygy)
 Subregion: Intake Ducts
 Subregion: Vertex Spires
-Room_Attr: TS_LAB02: Inspector-Stay,
+Room_Attr: ts_lab02: Inspector-Stay,
 Room_Attr: TS_FAKEGATE2: WhiteLizard-Forbidden,LanternMouse-Forbidden,

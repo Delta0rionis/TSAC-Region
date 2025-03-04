@@ -1,0 +1,10 @@
+overseersColorOverride(1.0, 0.18, 0.0):1.0
+inspectorColor(1.0, 0.18, 0.0)
+guideColor(1.0, 0.18, 0.0)
+overseersSpawnChance: 0.7
+overseersMin: 3
+overseersMax: 8
+playerGuideOverseerSpawnChance: 0.5
+pupSpawnChance: 0
+earlyCycleChance: 0.0
+earlyCycleFloodChance: 0.0

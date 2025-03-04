@@ -1,0 +1,12 @@
+Template: TS_SettingsTemplate_Archive
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0
+Grime: 0
+Palette: 97
+Effects: ZeroG-1-20-20, SunBlock-0-280-21, ProjectedScanLines-0-808-26, 
+PlacedObjects: LightningMachine><551.3124><256.56><166~-30~0~0~-100~147.6025~-103~-31~0.1~0~0~0.3~0.8~0.3~1~0.3913043~0~0.5~0~1~1, LightningMachine><472><300><181~-79~0~0~-103~192.6025~-100~-35~0.1~0~0~0.3~0.8~0.3~1~0.3913043~0~0.5~0~1~1, LightningMachine><392><236><295~-12~0~0~-103~175.6025~-99~-26~0.1~0~0~0.3~0.8~0.3~1~0.3913043~0~0.5~0~1~1, LightningMachine><2700><611><153~-128~0~0~85~-1.397522~-124~0~0.1~0~0~0.3~0.8~0.3~1~0.3913043~0~0.5~0~1~1, LightSource><2507.169><323.8173><0.6413044~EffectColor1~-446~77~149~13.60254~0~0~None~0~0, LightSource><1516><346><1~EffectColor1~-325~75~22~-183.3975~0~0~None~0~0, LightSource><523><329><0.7391304~EffectColor1~-325~75~-178~-185.3975~0~0~None~0~0, LightSource><65.75848><329.6998><1~EffectColor2~151~27~50~86.60254~0~0~None~0~0, LightSource><2960.663><329.8656><1~EffectColor2~-164~-53~-45~-127.3975~0~0~None~0~0, SuperStructureFuses><2312.078><389.4343><58~76, CoralStem><2584.435><92.43906><6~342, WallMycelia><160.9314><153.8344><0~100, SuperStructureFuses><611.8366><571.6152><122~116, WallMycelia><617.6317><62.34935><16~111, CoralNeuron><456.942><299.6938><354~58, WallMycelia><771.9603><34.55399><0~100, WallMycelia><1006.061><576.5639><-6~-121, WallMycelia><138.9501><545.9999><91~-56, LightSource><1012.6><334.8269><0.7065217~EffectColor2~-275~134~-37~-296.3975~0~0~None~0~0, CoralStem><1376><107><-15~248, CoralStem><1722><610><-25~-268, CoralCircuit><1523.056><344.2003><-60~135, LightSource><1980><345><0.4565217~EffectColor2~-306~49~-249~92.60254~0~0~None~0~0, SuperStructureFuses><551.3416><-50.87204><109~117, WallMycelia><1387.734><99.94937><0~100, WallMycelia><1860.129><285.903><-107~-98, WallMycelia><1704.609><610.1423><-13~-124, WallMycelia><1660.318><98.584><0~100, WallMycelia><2523.196><73.20853><-33~129, WallMycelia><2949.8><103.0107><-151~44, DeepProcessing><2306.166><175.6386><17~353~374~340~359~-24~0~0~1~1~0.09782609, DeepProcessing><363><185><17~353~374~340~359~-24~0~0~1~1~0.09782609, 
+FadePalette: 1, 0, 0, 0
+WetTerrain: OFF
