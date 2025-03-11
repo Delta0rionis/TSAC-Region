@@ -1,0 +1,60 @@
+Parent: none
+Type: AboveCloudsView
+OffsetX: 0
+OffsetY: 0
+---------------
+startAltitude: 20000
+endAltitude: 31400
+cloudsStartDepth: 5
+cloudsEndDepth: 100
+distantCloudsEndDepth: 2500
+cloudsCount: 7
+curveCloudDepth: 2
+distantCloudsCount: 20
+overrideYStart: -50
+overrideYEnd: 0
+
+daySky: tx_sky_day
+duskSky: tx_sky_dusk
+nightSky: tx_sky_night
+
+atmosphereColor: 1b2b39
+duskatmosphereColor: 621e33
+nightatmosphereColor: 000000
+
+multiplyColor: e9f4ff	
+duskMultiplyColor: ce8ba6
+nightMultiplyColor: 555555
+
+
+FlyingCloud: 0, 100, 355, 0.35, 0.5, 0.9
+FlyingCloud: 0, 75, 355, 0.30, 0.5, 0.9
+FlyingCloud: 0, 43, 920, 0.25, 0.3, 0.95
+FlyingCloud: 0, 25, 1500, 0.2, 0.1, 0.97
+FlyingCloud: 0, 10, 2000, 0.15, 0.05, 0.98
+
+
+DistantBuilding: AtC_Structure3, 600, -30, 300, 100
+DistantLightning: AtC_Light3, 600, -38, 300, 80
+
+DistantBuilding: tx_mountain_near, 400, -420, 55, 500
+DistantBuilding: tx_mountain_middle_day, 400, -390, 100, 100
+DistantBuilding: tx_mountain_near, 50, -350, 600, 200
+DistantBuilding: tx_mountain_middle_day, -700, -340, 1500, 100 : scale|0.9
+DistantBuilding: tx_mountain_middle_day, 400, -160, 2000, 0 : scale|0.45
+
+DistantBuilding: AtC_Structure2, -316, -70, 300, 90
+DistantLightning: AtC_Light2, -316, -90, 300, 80
+
+DistantBuilding: AtC_Structure4, 0, -27, 700, -200
+DistantBuilding: AtC_Structure5, 256, -12, 800, -350
+DistantBuilding: AtC_Structure6, -242, -10, 850, -350
+
+DistantBuilding: AtC_Spire1, 700, -150, 80, 20
+DistantBuilding: AtC_Spire2, -353, -57, 110, 40
+\\DistantBuilding: AtC_Spire3, 300, -46, 155, 0
+\\DistantBuilding: AtC_Spire4, -224, -30, 190, DistantBuilding: AtC_Spire5, 0, -20, 360, 10
+DistantBuilding: AtC_Spire6, -50, -25, 650, -100
+DistantBuilding: AtC_Spire7, 155, -20, 700, -100 : scale|0.9
+DistantBuilding: AtC_Spire8, -380, -10, 800, -100 : scale|1
+DistantBuilding: AtC_Spire9, -207, -10, 900, -100 : scale|0.6

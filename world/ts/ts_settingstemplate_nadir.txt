@@ -2,21 +2,21 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-WaveSpeed: 0.75
-WaveLength: 0.5
-WaveAmplitude: 0
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.03587852
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
-Clouds: 0
+Clouds: 0.4891304
 Grime: 0
 BkgDroneVolume: 0
 BkgDroneNoThreatVolume: 1
 RandomItemDensity: 0
 RandomItemSpearChance: 0
 WaterReflectionAlpha: 1
-Palette: 99
-EffectColorA: 8
-EffectColorB: 8
-Effects: SunBlock-1-33-34, ZeroG-0.1413043-20-20, LightBurn-0-25-79, SkyAndLightBloom-0-21-132, Contrast-0.0326087-294-18, RockFlea-0.1630435-278-71, Moth-0.1304348-278-126, Fog-0.1086956-20-20, BorderPushBack-0.3043478-23-75, 
-AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><828.1998><653.0092><0.1413043><0.7456522, OMNI><AM_WIN-StrongWnd2.ogg><649.244><654.55><0.3695652><1, OMNI><SO_SFX-DataTrans2.ogg><828.8108><578.3148><0.2608696><0.8434783, OMNI><AM_ENV-CityTone.ogg><871.5574><621.554><0.2173913><1, OMNI><AM_ENV-WinterHum.ogg><868.6826><548.0817><0.2173913><1, 
-FadePalette: 23, 0
+Palette: 1
+EffectColorA: 20
+EffectColorB: 3
+Effects: ZeroGSpecks-0.09782609-14-71, DayNight-1-15-15, LightBurn-0.1956522-273-18, Darkness-0.1413043-276-72, SunBlock-1-33-34, ZeroG-0.1413043-20-20, SkyAndLightBloom-0-21-132, Contrast-0.0326087-294-18, RockFlea-0.1630435-278-71, Moth-0.1304348-278-126, Fog-0.1086956-20-20, BorderPushBack-0.3043478-23-75, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><857.1617><614.1794><0.4347826><0.6478261, OMNI><AM_WIN-StrongWnd2.ogg><858.6898><537.5593><0.2608696><1, OMNI><MSC-StructureStrain.ogg><857.8405><459.5717><0.1195652><0.1, OMNI><SO_SFX-DataTrans2.ogg><494.8108><583.3148><0.2608696><0.8434783, OMNI><AM_ENV-CityTone.ogg><436.5574><373.554><0.2173913><1, OMNI><AM_ENV-WinterHum.ogg><633.6826><253.0817><0.2173913><1, 
+FadePalette: 62, 0.6304348

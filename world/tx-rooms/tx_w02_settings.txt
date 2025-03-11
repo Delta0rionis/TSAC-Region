@@ -1,0 +1,2 @@
+Template: TX_SettingsTemplate_Wall
+BackgroundType: atc_default_vanilla

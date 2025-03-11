@@ -2,5 +2,8 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-Effects: ZeroG-1-20-20, SSMusic-0.04347826-285-24, 
+Grime: 0
+Palette: 23
+Effects: ZeroG-1-20-20, SSMusic-0.04347826-291-23, SunBlock-0-280-78, 
+PlacedObjects: ZapCoil><421.1736><524.5992><189~45, ZapCoil><425.8068><91.44849><185~39, CoralNeuron><1649.749><168.55><-515~330, 
 AmbientSounds: SPOT><AM_SFX-RandomGods.ogg><455.3122><546.9312><0.05434782><0.8434783><2895.312><411.9312><-171.3553><-81.35535><0><0.1869567, OMNI><AM_IND-SuperStructure.ogg><848.6481><600.9221><0.5><1, OMNI><SO_SFX-Drowning.ogg><850.8029><519.7162><0.5><1, 

@@ -19,4 +19,3 @@ Subregion: Three Stars Above Clouds (Sequential Processing Syzygy)
 Subregion: Intake Ducts
 Subregion: Vertex Spires
 Room_Attr: ts_lab02: Inspector-Stay,
-Room_Attr: TS_FAKEGATE2: WhiteLizard-Forbidden,LanternMouse-Forbidden,

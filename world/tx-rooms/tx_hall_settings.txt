@@ -1,0 +1,8 @@
+DangerType: None
+CeilingDrips: 0.09782609
+RainIntensity: 0
+RumbleIntensity: 0.5
+Palette: 16
+Grime: 0.02173913
+Effects: None-0-38-8, ExtraLoudThunder-0.6847826-302-13, ElectricDeath-1-307-87, 
+FadePalette: 17, 0.4565217, 0.5760869, 0.6413044
