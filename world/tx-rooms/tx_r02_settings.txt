@@ -1,1 +1,4 @@
 Template: TX_SettingsTemplate_Wall
+Palette: 0
+PlacedObjects: CGOrganicLining><285.0629><126.1795><185~-4~-100^100~12~20~4~0.5~0.5~2~0, CGOrganicLockPart><210.5171><165.6993><100~50~40^40~0^50~0.5, 
+FadePalette: 8, 0

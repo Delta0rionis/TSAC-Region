@@ -1,14 +1,20 @@
 
 Palette: 16
-overseersColorOverride(1.0, 0.18, 0.0): 1 //changes overseer color
-inspectorColor(1.0, 0.18, 0.0)
-guideColor(1.0, 0.18, 0.0)
 overseersSpawnChance: 1
 overseersMin: 4
 overseersMax: 8
-playerGuideOverseerSpawnChance: 0.0
-Room Setting Templates: Leg, Underhang, Wall
+overseersColorOverride(1.0, 0.2, 0.0): 1
+inspectorColor: 1.0, 0.2, 0.0
+guideColor: 1.0, 0.2, 0.0
+guideShelterWeight: 2.0
+guideDestinationRoom: TX_HALL
+earlyCycleChance: 0.0
+earlyCycleFloodChance: 0.0
+playerGuideOverseerSpawnChance: 0.5
+pupSpawnChance: 0.0
+Room Setting Templates: Leg, Underhang, Wall, Roof
 Subregion: Legs
 Subregion: Wall
 Subregion: Cliff
 Subregion: Underhang
+Subregion: Roof

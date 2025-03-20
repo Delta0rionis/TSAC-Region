@@ -1,0 +1,5 @@
+EffectColorA: 8
+EffectColorB: 20
+Effects: FairyParticles-0-290-83, 
+PlacedObjects: FanLight><-186.8512><95.86639><12.32051~175~100~0~0.09782594~1~50~FanLightMask5~18~-46~70~0, FanLight><1144><96><-355.6795~22~100~0~0.09782609~1~50~FanLightMask5~-11~-53~69~0, LightSource><89.89984><154.4231><1~Environment~0~100~50~86.60254~0~0~None~0~0, LightSource><874><155><1~Environment~0~100~-6~-133.3975~0~0~None~0~0, LightFixture><146.2744><535.3015><RedLight~17.32051~-10~82, LightFixture><484.8463><244.1221><RedLight~17.32051~-10~24, LightFixture><847.3027><512.7169><RedLight~17.32051~-10~4, 
+FadePalette: 17, 0.7934783

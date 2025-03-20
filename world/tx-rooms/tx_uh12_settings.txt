@@ -1,1 +1,2 @@
 Template: TX_SettingsTemplate_Underhang
+BackgroundType: backgroundtest1.txt

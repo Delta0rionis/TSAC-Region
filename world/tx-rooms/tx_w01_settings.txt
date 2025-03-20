@@ -1,2 +1,10 @@
 Template: TX_SettingsTemplate_Wall
+Clouds: 0.4565217
+Grime: 0.05434782
+Palette: 12
+EffectColorA: 20
+EffectColorB: 3
+Effects: FairyParticles-1-20-20, BkgOnlyLightning-0.1847826-284-88, 
+PlacedObjects: FairyParticleSettings><-132.715><312.0531><-167~23.66025~0~5.891302~6.43478~0~1~1.817255~418.4782~500~217.3913~304.3478~3.913043~6.521819~238.6957~183.913~0~0.7~0~0~0.3695652~0.75~0.06521739~0.02173913~6.791306~Circle~LINEAR~EXP~0~0~0, SnowSource><457.4393><323.9355><Strip~283~25~-591~-72.39746~1~0, SeedCob><482.0298><454.4478><0~0~2~10, DeadSeedCob><392.8845><425.1019><, PureCrystalPlant><851.1196><179.9016><0~0~2~3, 
+FadePalette: 33, 0.7065217, 0.6195652
 BackgroundType: backgroundtest1.txt

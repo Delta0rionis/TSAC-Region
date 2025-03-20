@@ -1,8 +1,12 @@
+Template: TX_SettingsTemplate_Underhang
 DangerType: None
 CeilingDrips: 0.09782609
 RainIntensity: 0
 RumbleIntensity: 0.5
-Palette: 16
 Grime: 0.02173913
-Effects: None-0-38-8, ExtraLoudThunder-0.6847826-302-13, ElectricDeath-1-307-87, 
-FadePalette: 17, 0.4565217, 0.5760869, 0.6413044
+Palette: 16
+EffectColorA: 8
+EffectColorB: 20
+Effects: None-0-1071-220, ExtraLoudThunder-0.6847826-1080-101, ElectricDeath-0-1074-161, FairyParticles-1-1075-47, 
+PlacedObjects: LightSource><99.85138><391.1339><1~Environment~0~100~-256~98.60254~0~0~None~0~0, LightSource><877.1904><410.439><0.5652174~EffectColor1~-119~3~5~-123.3975~0~0~None~0~0, LightSource><2733><467><1~Environment~0~100~-11~-125.3975~0~0~None~0~0, LightSource><2658><390><0.4565217~EffectColor2~-258~53~120~100.6025~0~0~None~0~0, LightFixture><2814.13><190.1603><RedLight~-16.67944~-90~51, LightFixture><1989><617><RedLight~-16.67944~-90~51, SnowSource><176.1283><342.5966><Strip~121~-22~98~-15.39746~1~0, LightSource><408><412><0.5652174~EffectColor1~-119~3~5~-123.3975~0~0~None~0~0, LightSource><176><409><0.5652174~EffectColor2~-119~3~5~-123.3975~0~0~None~0~0, LightSource><641><413><0.5652174~EffectColor2~-119~3~5~-123.3975~0~0~None~0~0, LightSource><1124><412><0.5652174~EffectColor2~-119~3~5~-123.3975~0~0~None~0~0, LightSource><1367><414><0.5652174~EffectColor1~-119~3~5~-123.3975~0~0~None~0~0, LightSource><1831><415><0.5652174~EffectColor1~-119~3~5~-123.3975~0~0~None~0~0, LightSource><2428><385><0.2391304~EffectColor1~-199~13~-26~143.6025~0~0~None~0~0, LightSource><1601><398><0.5652174~EffectColor2~-119~3~5~-123.3975~0~0~None~0~0, LightSource><2072><406><0.5652174~EffectColor2~-119~3~5~-123.3975~0~0~None~0~0, LightFixture><1794><173><RedLight~30.32056~-1~51, FairyParticleSettings><1120.591><-1.572021><-469~24.66025~0~5.891302~6.43478~0~1~1.817255~418.4782~500~217.3913~304.3478~3.913043~6.521819~238.6957~183.913~0~0.7~0~0~0~0.2282609~0.06521739~0.02173913~6.791306~Circle~LINEAR~EXP~0~0~0, LightFixture><2974><468><RedLight~-16.67944~-90~51, LightFixture><2217><168><RedLight~-16.67944~-90~51, LightFixture><2713><595><RedLight~-16.67944~-90~51, 
+FadePalette: 17, 0.4347826, 0.5217391, 0.6086956

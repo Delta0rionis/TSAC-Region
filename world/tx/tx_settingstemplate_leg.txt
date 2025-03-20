@@ -17,5 +17,6 @@ WaterReflectionAlpha: 1
 Palette: 14
 EffectColorA: 20
 EffectColorB: 8
-Effects: FairyParticles-0-277-79, Lightning-0.6739131-21-78, Coldness-0.05434782-278-21, GreenSparks-0.2826087-15-16, ExtraLoudThunder-0.4347826-20-133, 
-AmbientSounds: OMNI><AM_ENV-WallHum.ogg><859.1616><604.6178><0.3586957><0.8043478, OMNI><AM_WIN-StrongWnd2.ogg><861.1998><521.0084><0.5434783><0.726087, DIR><AM_WIN-HowlingWnd.ogg><677.6037><584.3636><0.6304348><0.7065217><147.1631><0, OMNI><AM_RAIN-Rumbles.ogg><865.3361><442.3646><0.5434783><0.8043478, OMNI><MSC-StructureStrain.ogg><866.9291><362.411><0.3369565><0.1, 
+Effects: Lightning-0.6739131-21-78, Coldness-0.05434782-278-21, FairyParticles-1-282-80, GreenSparks-0.2826087-15-16, ExtraLoudThunder-0.4347826-20-133, 
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><859.1616><604.6178><0.3586957><0.8043478, OMNI><AM_WIN-StrongWnd2.ogg><861.1998><521.0084><0.5434783><0.726087, OMNI><AM_RAIN-Rumbles.ogg><865.3361><442.3646><0.5434783><0.8043478, OMNI><MSC-StructureStrain.ogg><866.9291><362.411><0.3369565><0.1, 
+FadePalette: 17, 0.6847826
