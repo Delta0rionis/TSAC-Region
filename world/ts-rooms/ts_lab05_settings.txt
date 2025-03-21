@@ -6,6 +6,6 @@ RumbleIntensity: 0
 Grime: 0
 RandomItemDensity: 0.3586957
 Palette: 24
-Effects: ZeroG-1-20-20, SunBlock-0-283-19, 
-PlacedObjects: SuperStructureFuses><29.57321><207.5935><103~160, SuperStructureFuses><832.5518><489.2233><76~77, SuperStructureFuses><833.4967><269.3><81~75, CoralStemWithNeurons><374.4434><121.949><26~363, WallMycelia><353.8491><111.8688><-42~130, WallMycelia><121.6895><425.814><72~3, WallMycelia><838.4304><645.3125><-44~-87, WallMycelia><476.4489><680.2288><3~-121, LightSource><62.85596><527.3613><1~Environment~0~100~50~86.60254~0~0~None~0~0, LightSource><733.5214><68.19885><1~Environment~0~100~50~86.60254~0~0~None~0~0, ProjectedStars><479.6369><363.1458><-275~205, 
+Effects: ZeroG-1-20-20, SunBlock-0-283-19, SSSwarmers-0.07608695-13-128, 
+PlacedObjects: SuperStructureFuses><29.57321><207.5935><103~160, SuperStructureFuses><832.5518><489.2233><76~77, SuperStructureFuses><833.4967><269.3><81~75, CoralStemWithNeurons><374.4434><121.949><26~363, WallMycelia><353.8491><111.8688><-42~130, WallMycelia><121.6895><425.814><72~3, WallMycelia><838.4304><645.3125><-44~-87, WallMycelia><476.4489><680.2288><3~-121, LightSource><62.85596><527.3613><1~Environment~0~100~50~86.60254~0~0~None~0~0, LightSource><733.5214><68.19885><1~Environment~0~100~50~86.60254~0~0~None~0~0, ProjectedStars><479.6369><363.1458><-275~205, LightSource><512><403><0.1630435~White~-455~-35~50~86.60254~0~1~None~0~0, 
 FadePalette: 24, 0
