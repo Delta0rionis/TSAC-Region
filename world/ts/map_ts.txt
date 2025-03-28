@@ -1,105 +1,106 @@
-TS_AI: 303><1542><732><1474><1><
-TS_SHELTER: 2574><43.5><2274><750><0><
+TS_AI: 303><1686><732><1474><1><
+TS_SHELTER: 2574><48><2274><750><0><
 TS_ARCHIVE: 2499><-288><2236><364><0><Three Stars Above Clouds (Data Archive)
-TS_LAB1: 2496><-610.5><2230><278><0><Three Stars Above Clouds (Memory Conflux)
+TS_LAB1: 2496><-606><2230><278><0><Three Stars Above Clouds (Memory Conflux)
 ts_lab02: 1128><816><1428><862><0><Three Stars Above Clouds (Memory Conflux)
-TS_TEST1: 2352><-532.5><2160><350><0><Three Stars Above Clouds (Memory Conflux)
+TS_TEST1: 2352><-528><2160><350><0><Three Stars Above Clouds (Memory Conflux)
 TS_CPU: -564><798><106><804><0><Three Stars Above Clouds (Sequential Processing Syzygy)
-TS_SECRET: -555><798><222><1066><1><Three Stars Above Clouds (Sequential Processing Syzygy)
-TS_INTAKE_1: -1278><-967.5><-374><-104><0><Intake Ducts
-TS_SH_IN: -936><-1060.5><-94><-216><0><
-TS_IN_ONEWAY: -1275><-1408.5><-270><-498><0><Intake Ducts
-TS_INT_2: -1284><-1774.5><-280><-572><0><Intake Ducts
-TS_IN_3: -1659><-952.5><-490><-84><0><Intake Ducts
-TS_IN_4: -1656><-628.5><-498><174><0><Intake Ducts
-TS_IN_5: -843><-1024.5><26><-220><0><
-TS_IN_6: -1662><-754.5><-502><82><0><Intake Ducts
-TS_E01: -342><-1018.5><148><-176><0><
-TS_B01: 162><-958.5><666><-190><0><Three Stars Above Clouds
-TS_IN_8: -1425><-697.5><-396><80><0><Intake Ducts
-TS_B02: 57><-1150.5><542><-264><0><
-TS_A01: -90><-1267.5><500><-342><0><Three Stars Above Clouds
-TS_S01: 183><-1267.5><818><-336><0><
-TS_I01: 213><-427.5><670><64><0><
-TS_A04: 60><-786><666><-22><0><
-TS_A02: 315><-897><762><-104><0><
-TS_A03: 342><-792><782><-26><0><
-TS_E02: 255><-169.5><684><320><0><
-TS_C01: 888><-175.5><1206><328><0><
-TS_S02: 429><-658.5><994><54><0><
-TS_B04: 1374><-393><1548><116><0><Three Stars Above Clouds (Data Archive)
-TS_B03: 1512><-769.5><1614><-34><0><
-TS_C02: 1059><-421.5><1436><94><0><
+TS_SECRET: -555><802.5><222><1066><1><Three Stars Above Clouds (Sequential Processing Syzygy)
+TS_INTAKE_1: -1278><-963><-374><-104><0><Intake Ducts
+TS_SH_IN: -936><-1056><-94><-216><0><
+TS_IN_ONEWAY: -1275><-1404><-270><-498><0><Intake Ducts
+TS_INT_2: -1284><-1770><-280><-572><0><Intake Ducts
+TS_IN_3: -1659><-948><-490><-84><0><Intake Ducts
+TS_IN_4: -1656><-624><-498><174><0><Intake Ducts
+TS_IN_5: -843><-1020><26><-220><0><
+TS_IN_6: -1662><-750><-502><82><0><Intake Ducts
+TS_E01: -342><-1014><148><-176><0><
+TS_B01: 162><-954><666><-190><0><Three Stars Above Clouds
+TS_IN_8: -1425><-693><-396><80><0><Intake Ducts
+TS_B02: 57><-1146><542><-264><0><
+TS_A01: -90><-1263><500><-342><0><Three Stars Above Clouds
+TS_S01: 183><-1263><818><-336><0><
+TS_I01: 213><-423><670><64><0><
+TS_A04: 60><-781.5><666><-22><0><
+TS_A02: 315><-892.5><762><-104><0><
+TS_A03: 342><-787.5><782><-26><0><
+TS_E02: 255><-165><684><320><0><
+TS_C01: 888><-171><1206><328><0><
+TS_S02: 429><-654><994><54><0><
+TS_B04: 1374><-388.5><1548><116><0><Three Stars Above Clouds (Data Archive)
+TS_B03: 1512><-765><1614><-34><0><
+TS_C02: 1059><-417><1436><94><0><
 TS_LAB01: 1224><312><1574><612><0><Three Stars Above Clouds (Memory Conflux)
-TS_D01: -1533><835.5><-208><838><0><Three Stars Above Clouds (Sequential Processing Syzygy)
-TS_A05: -237><-159><492><378><0><Three Stars Above Clouds (Sequential Processing Syzygy)
-ts_in_7: -1287><-495><-242><166><0><Intake Ducts
-TS_B05: -1656><-459><-492><262><0><Intake Ducts
+TS_D01: -1533><840><-208><838><0><Three Stars Above Clouds (Sequential Processing Syzygy)
+TS_A05: -237><-154.5><492><378><0><Three Stars Above Clouds (Sequential Processing Syzygy)
+ts_in_7: -1287><-490.5><-242><166><0><Intake Ducts
+TS_B05: -1656><-454.5><-492><262><0><Intake Ducts
 TS_E03: -168><2283><418><1724><1><
-TS_L01: 333><1611><652><1320><0><Three Stars Above Clouds (Cognitive Nexus)
+TS_L01: 333><1621.5><652><1320><0><Three Stars Above Clouds (Cognitive Nexus)
 TS_LAB05: 1761><847.5><1904><934><0><Three Stars Above Clouds (Memory Conflux)
-TS_LAB13: 1563><469.5><1814><694><0><Three Stars Above Clouds (Memory Conflux)
+TS_LAB13: 1563><474><1814><694><0><Three Stars Above Clouds (Memory Conflux)
 TS_B06: -1758><546><-318><808><0><Three Stars Above Clouds (Sequential Processing Syzygy)
-TS_LAB10: 1569><604.5><1806><776><0><Three Stars Above Clouds (Memory Conflux)
-TS_LAB14: 1737><463.5><1914><698><0><Three Stars Above Clouds (Memory Conflux)
-TS_LAB12: 1389><472.5><1690><698><0><Three Stars Above Clouds (Memory Conflux)
-TS_LAB15: 1224><577.5><1568><780><0><Three Stars Above Clouds (Memory Conflux)
-TS_E04: 330><1098><764><930><1><Three Stars Above Clouds (Cognitive Nexus)
-TS_LAB04: 1575><868.5><1800><932><0><Three Stars Above Clouds (Memory Conflux)
-TS_C04: 1890><334.5><2008><500><0><Three Stars Above Clouds (Data Archive)
-TS_G01: 1521><-7.5><1796><242><0><Three Stars Above Clouds (Data Archive)
-TS_LAB03: 1401><874.5><1680><934><0><Three Stars Above Clouds (Memory Conflux)
-TS_LAB09: 1395><607.5><1684><778><0><Three Stars Above Clouds (Memory Conflux)
-TS_C05: 1224><54><1664><356><0><Three Stars Above Clouds (Data Archive)
-TS_C03: 2340><-250.5><1956><6><0><Three Stars Above Clouds (Data Archive)
+TS_LAB10: 1569><609><1806><776><0><Three Stars Above Clouds (Memory Conflux)
+TS_LAB14: 1737><468><1914><698><0><Three Stars Above Clouds (Memory Conflux)
+TS_LAB12: 1389><477><1690><698><0><Three Stars Above Clouds (Memory Conflux)
+TS_LAB15: 1224><582><1568><780><0><Three Stars Above Clouds (Memory Conflux)
+TS_E04: 330><1102.5><764><930><1><Three Stars Above Clouds (Cognitive Nexus)
+TS_LAB04: 1575><873><1800><932><0><Three Stars Above Clouds (Memory Conflux)
+TS_C04: 1890><339><2008><500><0><Three Stars Above Clouds (Data Archive)
+TS_G01: 1521><-3><1796><242><0><Three Stars Above Clouds (Data Archive)
+TS_LAB03: 1401><879><1680><934><0><Three Stars Above Clouds (Memory Conflux)
+TS_LAB09: 1395><612><1684><778><0><Three Stars Above Clouds (Memory Conflux)
+TS_C05: 1224><58.5><1664><356><0><Three Stars Above Clouds (Data Archive)
+TS_C03: 2340><-246><1956><6><0><Three Stars Above Clouds (Data Archive)
 TS_C08: -1101><834><-210><990><0><Three Stars Above Clouds (Sequential Processing Syzygy)
-TS_LAB07: 1569><730.5><1806><856><0><Three Stars Above Clouds (Memory Conflux)
-TS_S_SPS: -1764><777><-350><1006><0><
+TS_LAB07: 1569><735><1806><856><0><Three Stars Above Clouds (Memory Conflux)
+TS_S_SPS: -1764><781.5><-350><1006><0><
 TS_D06: -1434><270><-234><512><0><Three Stars Above Clouds (Sequential Processing Syzygy)
-TS_C06: -36><801><440><888><0><
+TS_C06: -36><805.5><440><888><0><
 TS_B07: -1731><321><-294><658><0><Three Stars Above Clouds (Sequential Processing Syzygy)
-TS_S_LAB: 1044><577.5><1450><778><0><
+TS_S_LAB: 1044><582><1450><778><0><
 TS_D05: -1518><558><-160><664><0><Three Stars Above Clouds (Sequential Processing Syzygy)
-TS_LAB11: 1752><598.5><1924><784><0><Three Stars Above Clouds (Memory Conflux)
-TS_D04: -753><2529><-122><2102><0><
-TS_LAB08: 1761><736.5><1914><852><0><Three Stars Above Clouds (Memory Conflux)
-TS_C07: 675><801><962><890><0><
-TS_LAB06: 1407><723><1686><856><0><Three Stars Above Clouds (Memory Conflux)
-TS_S_TOP: -300><2449.5><312><2024><0><
-TS_D08: -300><2593.5><296><2108><0><Three Stars Above Clouds
-TS_B10: 1746><-721.5><1834><-50><0><
-TS_D10: 1533><-475.5><1674><42><0><
-TS_A10: 1269><-771><1418><-18><0><
-TS_E07: 810><-765><892><-14><0><
-TS_A09: -276><-312><570><232><0><
-TS_C13: -432><-469.5><458><48><0><
-TS_F02: -591><-291><350><0><0><
-TS_E05: -609><114><34><482><0><Three Stars Above Clouds (Sequential Processing Syzygy)
-TS_IN_9: -1281><-627><-236><96><0><Intake Ducts
-TS_IN_10: -1296><-384><-240><264><0><Intake Ducts
-TS_IN_11: -1062><-492><70><8><0><Intake Ducts
-TS_IN_12: -834><-891><-36><-86><0><Intake Ducts
-TS_IN_13: -1518><-813><-292><34><0><Intake Ducts
-TS_IN_PUMP: -1044><-742.5><-174><32><0><Intake Ducts
-TS_ORRERY: -564><387><110><562><0><Three Stars Above Clouds (Sequential Processing Syzygy)
-TS_F03: -807><-298.5><136><144><0><Three Stars Above Clouds
-TS_A11: -1131><-55.5><198><394><0><
-TS_C14: -1785><84><-528><436><0><Three Stars Above Clouds (Sequential Processing Syzygy)
-TS_B11: 258><28.5><898><398><0><
-TS_C09: 1227><-1374><1406><-486><0><
-TS_C15: 1227><-1020><1398><-266><0><
-TS_D09: 60><1929><414><1642><0><
+TS_LAB11: 1752><603><1924><784><0><Three Stars Above Clouds (Memory Conflux)
+TS_D04: -753><2533.5><-122><2102><0><
+TS_LAB08: 1761><741><1914><852><0><Three Stars Above Clouds (Memory Conflux)
+TS_C07: 675><805.5><962><890><0><
+TS_LAB06: 1407><727.5><1686><856><0><Three Stars Above Clouds (Memory Conflux)
+TS_S_TOP: -300><2454><312><2024><0><
+TS_D08: -300><2598><296><2108><0><Three Stars Above Clouds
+TS_B10: 1746><-717><1834><-50><0><
+TS_D10: 1533><-471><1674><42><0><
+TS_A10: 1269><-766.5><1418><-18><0><
+TS_E07: 810><-760.5><892><-14><0><
+TS_A09: -276><-307.5><570><232><0><
+TS_C13: -432><-465><458><48><0><
+TS_F02: -591><-286.5><350><0><0><
+TS_E05: -609><118.5><34><482><0><Three Stars Above Clouds (Sequential Processing Syzygy)
+TS_IN_9: -1281><-622.5><-236><96><0><Intake Ducts
+TS_IN_10: -1296><-379.5><-240><264><0><Intake Ducts
+TS_IN_11: -1062><-487.5><70><8><0><Intake Ducts
+TS_IN_12: -834><-886.5><-36><-86><0><Intake Ducts
+TS_IN_13: -1518><-808.5><-292><34><0><Intake Ducts
+TS_IN_PUMP: -1044><-738><-174><32><0><Intake Ducts
+TS_ORRERY: -564><391.5><110><562><0><Three Stars Above Clouds (Sequential Processing Syzygy)
+TS_F03: -807><-294><136><144><0><Three Stars Above Clouds
+TS_A11: -1131><-51><198><394><0><
+TS_C14: -1785><88.5><-528><436><0><Three Stars Above Clouds (Sequential Processing Syzygy)
+TS_B11: 258><33><898><398><0><
+TS_C09: 1227><-1369.5><1406><-486><0><
+TS_C15: 1227><-1015.5><1398><-266><0><
+TS_D09: 60><1933.5><414><1642><0><
 TS_D11: 1635><-960><1692><-272><0><
-TS_ROOST: -1203><2526><-348><2096><0><
-TS_archive_test: 2496><-721.5><2224><194><0><
-TS_ARCHIVE_TEST_2: 2538><-832.5><2244><102><0><
+TS_ROOST: -1203><2530.5><-348><2096><0><
+TS_archive_test: 2496><-717><2224><194><0><
+TS_ARCHIVE_TEST_2: 2538><-828><2244><102><0><
 TS_H01: -1473><-246><-304><298><0><Three Stars Above Clouds
-TS_C03_v2: 1875><-10.5><2002><244><0><Three Stars Above Clouds (Data Archive)
+TS_C03_v2: 1875><-6><2002><244><0><Three Stars Above Clouds (Data Archive)
 TS_ARC_C01: 1551><324><1688><592><0><Three Stars Above Clouds (Data Archive)
-GATE_TX_TS: -156><-1363.5><412><-352><0><
-GATE_PS_TS: -1137><-1789.5><-170><-582><0><
-GATE_TS_ZN: -57><2632.5><542><2182><0><
+GATE_TX_TS: -156><-1359><412><-352><0><
+GATE_PS_TS: -1137><-1785><-170><-582><0><
+TS_ZHALL: 87><2623.5><0><-70><0><
 OffScreenDen_ts: 564><237><-542.094><-353.124><1><
+GATE_TS_ZN: 309><2688><0><-70><0><
 Connection: TS_AI,TS_L01,24,33,66,122,1,3
 Connection: TS_SHELTER,TS_ARCHIVE,24,12,44,184,3,1
 Connection: TS_ARCHIVE,TS_LAB1,25,2,27,31,3,1
@@ -134,7 +135,7 @@ Connection: TS_B02,TS_A01,9,5,30,29,3,1
 Connection: TS_B02,TS_S01,94,6,24,22,3,1
 Connection: TS_A01,GATE_TX_TS,14,5,36,19,3,1
 Connection: TS_I01,TS_E02,91,116,128,5,1,3
-Connection: TS_I01,TS_A09,3,106,42,20,2,0
+Connection: TS_I01,TS_A09,3,106,41,20,2,0
 Connection: TS_I01,TS_S02,139,10,14,25,0,1
 Connection: TS_I01,TS_A04,25,7,23,32,3,1
 Connection: TS_A04,TS_A03,43,16,2,18,0,2
@@ -154,7 +155,7 @@ Connection: TS_LAB01,TS_C05,23,4,24,106,3,1
 Connection: TS_D01,TS_C08,96,68,5,21,1,2
 Connection: TS_D01,TS_D05,5,3,18,69,2,1
 Connection: TS_A05,TS_F02,3,33,35,214,1,0
-Connection: TS_A05,TS_A09,3,4,18,31,3,1
+Connection: TS_A05,TS_A09,3,4,12,31,3,1
 Connection: ts_in_7,TS_IN_10,24,34,5,4,1,3
 Connection: ts_in_7,TS_IN_9,24,1,39,33,3,1
 Connection: TS_B05,TS_H01,23,70,1,4,1,3
@@ -194,14 +195,13 @@ Connection: TS_LAB11,TS_LAB08,24,31,24,1,1,3
 Connection: TS_D04,TS_ROOST,7,7,98,8,2,0
 Connection: TS_D04,TS_D08,196,7,6,6,0,2
 Connection: TS_S_TOP,TS_D08,12,13,38,5,1,3
-Connection: TS_D08,GATE_TS_ZN,97,42,2,9,0,2
-Connection: TS_B10,TS_D10,6,57,43,4,2,0
+Connection: TS_D08,TS_ZHALL,97,42,6,13,0,2
 Connection: TS_B10,TS_D11,30,6,88,72,3,1
 Connection: TS_D10,TS_A10,4,4,34,32,3,1
 Connection: TS_A10,TS_E07,3,16,250,16,2,0
 Connection: TS_A10,TS_D11,43,7,5,69,0,2
 Connection: TS_A10,TS_C15,10,3,24,108,3,1
-Connection: TS_A09,TS_C13,5,3,45,96,2,0
+Connection: TS_A09,TS_C13,5,7,45,96,2,0
 Connection: TS_C13,TS_F02,11,17,41,17,2,0
 Connection: TS_F02,TS_F03,10,214,79,111,2,1
 Connection: TS_E05,TS_ORRERY,137,33,76,8,1,3
@@ -222,3 +222,4 @@ Connection: TS_A11,TS_H01,7,12,200,70,3,1
 Connection: TS_C14,TS_H01,17,14,7,72,3,2
 Connection: TS_C09,TS_C15,23,107,24,4,1,3
 Connection: TS_archive_test,TS_ARCHIVE_TEST_2,24,1,13,30,3,1
+Connection: TS_ZHALL,GATE_TS_ZN,137,18,11,5,1,3

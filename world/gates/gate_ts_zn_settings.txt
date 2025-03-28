@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+Grime: 0.05434782
+Palette: 1

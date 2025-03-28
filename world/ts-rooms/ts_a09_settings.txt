@@ -2,3 +2,8 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
+Grime: 0
+Palette: 23
+Effects: SunBlock-0-269-19, 
+PlacedObjects: LightSource><119.6161><149.8372><1~Environment~0~100~-270~32.60254~0~0~None~0~0, LightSource><819.9396><411.5594><1~Environment~0~100~66~-106.3975~0~0~None~0~0, LightSource><248.6054><626.8618><1~Environment~4~-91~-276~-56.39746~1~0~None~0~0, LightSource><335.4366><426.4282><0.5652174~EffectColor1~-288~21~-50~119.6026~0~0~None~0~0, FanLight><471.5422><209.5545><-41.6795~-231~1~0~1~0.2608696~50~FanLightMask1~-7~11~100~0, PWLightrod><132.1283><489.5913><-260.6795~-171~0.5108696~90~658.2609~0.1521739~1~0.173913~0~1~0.173913~0, PWLightrod><147><332><-260.6795~-171~0.5326087~90~658.2609~0.1521739~1~0.173913~0~1~0.173913~0~1~0.173913~0, WallMycelia><589.3119><575.0679><-10~-124, WallMycelia><556.4442><249.4421><-3~128, WallMycelia><145.9993><396.95><113~82, FanLight><571><210><-41.6795~-231~1~0~1~0.2608696~50~FanLightMask1~-7~11~100~0, FanLight><671><209><-41.6795~-231~1~0~1~0.2608696~50~FanLightMask1~-7~11~100~0, LightSource><311><269><0.4565217~Environment~-48~115~-270~32.60254~0~0~None~0~0, LightSource><732><410><0.4565217~Environment~-48~115~-270~32.60254~0~0~None~0~0, LightSource><251><576><0.4565217~Environment~-48~115~-270~32.60254~0~0~None~0~0, LightSource><141><418><0.4565217~Environment~-48~115~-270~32.60254~0~0~None~0~0, SuperStructureFuses><46.51685><237.3007><64~69, SuperStructureFuses><49.32932><368.8164><54~120, 
+FadePalette: 17, 0.1521739

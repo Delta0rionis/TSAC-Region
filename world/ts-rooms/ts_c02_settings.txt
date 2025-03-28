@@ -6,7 +6,7 @@ Clouds: 0
 Grime: 0
 RandomItemDensity: 0.3369565
 RandomItemSpearChance: 0.06956515
-Palette: 24
+Palette: 23
 EffectColorA: 5
 EffectColorB: 20
 Effects: ZeroG-1-20-20, SSSwarmers-0.173913-21-78, ZeroGSpecks-0.5326087-19-131, Bloom-0.6739131-275-22, SunBlock-0-279-75, ProjectedScanLines-0.1304348-277-135, 

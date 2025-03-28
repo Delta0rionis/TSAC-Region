@@ -1,3 +1,4 @@
+Template: NONE
 DangerType: None
 RainIntensity: 0
 RumbleIntensity: 0
@@ -6,10 +7,12 @@ WaveLength: 0.1086956
 WaveAmplitude: 0.05434782
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
+Clouds: 1
 Grime: 0
+Palette: 0
 EffectColorA: 5
 EffectColorB: 20
-Effects: WaterDepth-0.2173913-20-20, SilenceWater-0.4021739-22-81, 
-PlacedObjects: LightFixture><774.551><471.7695><RedLight~17.32051~-10~8, LightFixture><202.5681><448.312><RedLight~17.32051~-10~55, LightFixture><229.8005><-118.7641><RedLight~-295.6795~-60~2, LightFixture><813.676><-141.0951><RedLight~17.32051~-10~92, LightFixture><-65.23053><198.801><RedLight~17.32051~-10~88, LightFixture><1040.575><198.5969><RedLight~-147.6794~-142~26, LightFixture><503.446><443.7101><RedLight~17.32051~-10~86, CommonGateData><481.4175><257.5678><118~-120~False~False~False~False~False~False~False~False~0~1~1, 
+Effects: WaterDepth-0.2173913-293-89, SilenceWater-0.3043478-303-28, SunBlock-0-20-20, 
+PlacedObjects: LightFixture><481.676><-19.09509><RedSubmersible~17.32051~-10~92, LightFixture><81.76947><333.801><RedLight~17.32051~-10~88, LightFixture><900.575><276.5969><RedLight~-147.6794~-142~26, LightFixture><482.446><410.7101><RedLight~17.32051~-10~86, CommonGateData><483.4175><242.5678><118~-120~False~False~False~False~False~False~False~True~0.6521739~1~1, FanLight><120.6429><-0.3899841><17.32051~-10~3~1~0~0~50~FanLightMask1~0~46~63~0, FanLight><867.6619><2.32048><5.320557~-134~38~1~0~0~50~FanLightMask1~-22~42~63~0, 
 AmbientSounds: SPOT><SO_WAT-TubWater.ogg><844.1298><530.9099><0.5><1><718.1298><183.9099><-132.3553><6.644653><0><0.154348, SPOT><SO_WAT-TubWater.ogg><668.8306><527.817><0.5><1><244.8306><197.817><-83.35535><-98.35535><0><0.1652175, OMNI><AM_IND-SuperStructure.ogg><832.8793><454.4095><0.1847826><1, 
-FadePalette: 8, 0.9456522
+FadePalette: 8, 0.9565217
