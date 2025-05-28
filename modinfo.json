@@ -5,8 +5,8 @@
 	"hide_version": true,
 	"authors": "DeltaOrionis",
 	"description": "Custom region for the iterator OC Three Stars Above Clouds. <LINE>Still a very early work in progress. <LINE>[More info: threestarsaboveclouds.tumblr.com]",
-	"requirements": ["crs", "regionkit", "nacu.lunacy"],
-	"requirements_names": ["Custom Regions Support", "RegionKit", "Lunacy"],
+	"requirements": ["crs", "regionkit"],
+	"requirements_names": ["Custom Regions Support", "RegionKit"],
 	"checksum_override_version": false,
 	"tags": ["Region"]
 }

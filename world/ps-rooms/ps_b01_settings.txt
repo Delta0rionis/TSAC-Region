@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+WaveSpeed: 0.4949506
+WaveLength: 0.9974753
+WaveAmplitude: 0.04848959
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Effects: WaterDepth-0-20-20, FastFloodDrain-0.5217391-23-94, 
+PlacedObjects: FluxWaterfall><1620><600><3~0.8152174~D~0~0, FluxDrain><1620><80><3~1~D~0~0, WaterCycleTop><1655.449><359.5565><, WaterCycleBottom><1653.577><167.4005><, 

@@ -1,12 +1,18 @@
 Template: NONE
-DangerType: None
+DangerType: Flood
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
 Clouds: 0
 Grime: 0
 Palette: 23
 EffectColorA: 20
 EffectColorB: 5
-Effects: ZeroG-0.7717391-20-20, SunBlock-0-290-29, 
+Effects: ZeroG-0.7717391-20-20, SunBlock-0-290-29, WaterDepth-0.07608695-1051-523, 
+PlacedObjects: FluxWaterfall><80><1780><3~0.5~D~0~0, FluxWaterfall><720><1760><3~0.5~D~0~0, FluxWaterfall><780><1280><3~0.5~D~0~0, FluxWaterfall><160><1400><3~0.5~D~0~0, WaterCycleTop><482.882><685.6614><, WaterCycleBottom><484.0508><141.9827><, AirPocket><46.35471><428.6125><390~145~-130~-90~Y~-27, AirPocket><516.425><1033.815><94~288~30~30~N~18, AirPocket><956.801><492.0198><226~176~-170~-121~N~5, 
 FadePalette: 10, 0.4456522, 0.4456522, 0.423913

@@ -1,6 +1,12 @@
 Template: NONE
-DangerType: None
+DangerType: Flood
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
 Effects: ZeroG-0.3695652-20-20, 
+PlacedObjects: FluxWaterfall><380><640><3~0.7391304~D~-2.282609~-2.086957, WaterCycleTop><448.4363><337.3228><, WaterCycleBottom><449.6036><81.82895><, 
