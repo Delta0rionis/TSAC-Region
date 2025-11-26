@@ -1,0 +1,4 @@
+1:This is the eye of an Overseer. From the looks of it, it appears to be from one of mine.:10
+1:Please refrain from destroying any more of my Overseers. The Scavengers have done enough <LINE>damage to my Overseer network already. Unless you obtained this from one of them?:20
+1:My Overseers serve as my connection to the outside environment- without them I would lose <LINE>the ability to perceive anything outside of my can.:15
+1:The scavengers seem to enjoy hunting them- as a result I have a significant blind spot in their territory. <LINE>I would appreciate if you could avoid making that blind spot even worse, little animal.:25

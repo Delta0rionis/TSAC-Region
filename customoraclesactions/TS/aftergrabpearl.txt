@@ -1,0 +1,6 @@
+action:startconversation{pearlgrab},talk
+action:waituntil{tickspassed{100}}
+action:endconversation{null}
+action:StunPlayer{50,true}
+action:influencelike{.34}
+action:endevent{null}

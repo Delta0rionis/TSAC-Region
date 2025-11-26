@@ -2,6 +2,7 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
+Clouds: 0
 Grime: 0
 RandomItemDensity: 0.3913043
 Palette: 23

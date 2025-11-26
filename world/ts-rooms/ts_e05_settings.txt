@@ -3,6 +3,6 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-Palette: 0
+Palette: 23
 Effects: ZeroG-1-20-20, 
 PlacedObjects: ZapCoil><2430.557><426.3019><43~102, ZapCoil><2435><210><43~102, ZapCoil><2654><371><41~96, ZapCoil><2651><153><40~95, ZapCoil><506.5532><575.0355><227.0001~29, ZapCoil><4902.205><162.1948><102~44, ZapCoil><4900><384><102~44, 

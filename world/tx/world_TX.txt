@@ -62,7 +62,6 @@ TX_LEGTEST : 2-TubeWorm, 3-TubeWorm, 6-TubeWorm, 7-TubeWorm
 TX_LEG00 : 4-LanternMouse, 5-LanternMouse, 6-TubeWorm, 7-TubeWorm, 9-TubeWorm, 11-TubeWorm, 12-TubeWorm, 13-LanternMouse
 TX_LEG08 : 6-TubeWorm, 7-PoleMimic, 8-TubeWorm, 10-TubeWorm, 12-TubeWorm, 14-TubeWorm, 15-TubeWorm
 TX_W02V2 : 4-WhiteLizard-{Winter}
-OFFSCREEN : 0-Vulture-5, 0-KingVulture
 TX_UH15 : 4-BlueLizard-{Winter}
 TX_UH03 : 5-TubeWorm, 6-PoleMimic, 7-WhiteLizard-{Winter}, 8-BlueLizard-{Winter}, 10-TubeWorm, 11-TubeWorm, 12-BlueLizard-{Winter}, 14-TubeWorm, 15-TubeWorm, 16-TubeWorm
 TX_LEG04 : 5-PoleMimic, 6-WhiteLizard-{Winter}, 9-BlueLizard-{Winter}
@@ -74,4 +73,5 @@ TX_M09 : 5-PinkLizard-{Winter}, 6-PinkLizard-{Winter}
 TX_UH04 : 2-SmallCentipede-2, 3-LanternMouse, 5-LanternMouse-2, 6-LanternMouse-2
 TX_D02X : 3-LanternMouse-{Winter}-3, 4-LanternMouse-3
 TX_UH09 : 5-PoleMimic, 6-YellowLizard-{Winter}, 8-YellowLizard-{Winter}
+OFFSCREEN : 0-Vulture-5, 0-KingVulture
 END CREATURES

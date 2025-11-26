@@ -1,1 +1,7 @@
-Template: TX_SettingsTemplate_Underhang
+Template: tx_settingstemplate_underhang
+WaveSpeed: 0.5019144
+WaveLength: 0.9990428
+WaveAmplitude: 2.260868E-07
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+PlacedObjects: FairyParticleSettings><285.1901><271.0622><-336~-278.3398~0~4.260851~5.891286~0.02173913~1.716524~2.785407~309.7825~500~326.087~1000~32.3913~41.73924~219.1303~258.2608~0.5~0.7~0~0~0.5760867~1~1~0.2282609~6.791306~Circle~LINEAR~SIN_IO~0~0~2.391304, 

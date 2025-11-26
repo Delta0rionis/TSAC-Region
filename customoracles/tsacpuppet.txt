@@ -1,0 +1,31 @@
+id:TS
+ruined:false
+color:default{18,1,101}
+defaultBehavior:default{slumberparty}
+room:TS_AI
+region:green waterline
+x:350
+y:350
+gown:21,21,21,15,15,15
+thirdEyeColor:1,249,57
+hasThirdEye:true
+thirdEyeSprite:default{tinyStar}
+thirdEyeScale:default{1.2}
+hasPearls:true
+readsPearls:true
+palette:23,99
+hasHalo:true
+hasGown:true
+hasKillSprite:true
+ruinedGown:default{false}
+ruinedArm:default{false}
+modules:pearlReaderModule
+name:Three Stars Above Clouds
+nameForPlayer:animal
+iconName:GuidancePebbles
+initialSwarmers:-1
+acceptsNeuronFlies:false
+hasCollection:true
+pearlColor:255,72,1:29,1,139:1,249,57
+deflectSpears:true
+metalColor:5,5,5

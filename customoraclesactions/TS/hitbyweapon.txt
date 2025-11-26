@@ -1,0 +1,4 @@
+action:changehalo{null}
+action:playsound{pebblesvoice2}
+action:StunPlayer{50,sparks}
+action:endevent{null}

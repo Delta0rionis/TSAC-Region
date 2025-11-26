@@ -11,4 +11,4 @@ EffectColorA: 8
 EffectColorB: 20
 Effects: ZeroG-1-20-20, Bloom-0.4130433-20-74, ZeroGSpecks-0.25-23-131, SunBlock-1-279-20, BrokenZeroG-0-278-81, SSSwarmers-0.06521805-275-133, 
 PlacedObjects: LightSource><489.1403><773.5828><0.07608695~White~-978~56~50~86.60254~1~1~None~0~0, SpotLight><132><656><-52~527~599~459~629~-58, 
-FadePalette: 102, 0, 0
+FadePalette: 102, 0.8369567, 0.9347826

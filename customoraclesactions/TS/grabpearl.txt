@@ -1,0 +1,4 @@
+requirement:noconversation{true}
+action:waituntil{tickspassed{100}}<R>pickeduppearl{true}
+action:fireevent{aftergrabpearl}
+action:endevent{null}

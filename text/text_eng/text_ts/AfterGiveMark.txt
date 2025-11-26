@@ -1,0 +1,10 @@
+1:Can you understand me?:10
+1:...:5
+1:Little animal, your constant interruptions have become quite a nuisance.:15
+1:If you absolutely must seek refuge within my superstructure, please refrain from <LINE>taking any more of my pearls. I’ve lost enough of them to the scavengers already.:20
+1:If you must know, those pearls contain data that is vital <LINE>to my research. The scavengers have strewn them all about <LINE>my facility grounds, where I cannot reach. The last <LINE>thing I need is more distractions from little animals.:20
+1:However...:5
+1:...:5
+1:You seem intent on continuing to bother me. At the very least, <LINE>you could make yourself useful by returning some of those stolen <LINE>pearls to me. I would appreciate that greatly.:20
+1:...:5
+1:For now, please allow me to return to my work.:10

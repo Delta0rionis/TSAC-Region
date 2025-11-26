@@ -1,0 +1,8 @@
+0:What's this? A pearl? ...do you expect me to read it?
+Another pearl? I assume you want me to read it?
+You've brought me a pearl? Let me take a look.
+Ah, a pearl. I suppose I can pause my work for long enough to read it to you.
+Ah, you've brought me another pearl. I will read it for you.
+You've brought me another pearl to read?
+A pearl? I suppose I can read it for you.
+Hm? Oh, a pearl. I will read it for you.
