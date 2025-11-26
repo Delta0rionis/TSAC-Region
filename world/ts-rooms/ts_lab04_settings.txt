@@ -1,9 +1,9 @@
-Template: TS_SettingsTemplate_Lab
+Template: ts_settingstemplate_lab
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
 Palette: 24
 Effects: ZeroG-1-20-20, 
-PlacedObjects: SuperStructureFuses><-52.4397><249.9367><59~135, SuperStructureFuses><871.3889><351.0836><137~55, SpotLight><154.3336><159.389><-3~419~610~426~609~1, WallMycelia><256.105><234.0798><2~116, SuperStructureFuses><851.4019><89.63014><102~48, WallMycelia><877.0237><391.4486><-122~-16, WallMycelia><517.4686><90.44754><-4~155, WallMycelia><145.381><515.9107><93~-65, WallMycelia><612.7029><577.8056><0~-130, WallMycelia><893.7704><211.6989><-57~52, WallMycelia><842.545><647.5552><-88~-88, CoralStemWithNeurons><628.0773><80.56555><-287~394, LightSource><68.93668><611.8218><1~Environment~102~-18~50~-166.3975~0~0~None~0~0, LightSource><918.1937><547.4419><1~Environment~-89~-8~-43~-185.3975~0~0~None~0~0, LightSource><468.0267><54.30182><1~Environment~0~100~50~86.60254~0~0~None~0~0, LightSource><481><363><0.1413043~White~-518~39~50~86.60254~0~1~None~0~0, DeepProcessing><309.3511><178.8665><-11~368~373~360~364~-12~-246~-95~1~1~0, 
+PlacedObjects: SuperStructureFuses><-48.4397><248.9367><59~135, SuperStructureFuses><871.3889><351.0836><137~55, SpotLight><154.3336><159.389><-3~419~610~426~609~1, WallMycelia><256.105><234.0798><2~116, SuperStructureFuses><851.4019><89.63014><102~48, WallMycelia><877.0237><391.4486><-122~-16, WallMycelia><517.4686><90.44754><-4~155, WallMycelia><145.381><515.9107><93~-65, WallMycelia><612.7029><577.8056><0~-130, WallMycelia><893.7704><211.6989><-57~52, WallMycelia><842.545><647.5552><-88~-88, CoralStemWithNeurons><628.0773><80.56555><-287~394, LightSource><68.93668><611.8218><1~Environment~102~-18~50~-166.3975~0~0~None~0~0, LightSource><918.1937><547.4419><1~Environment~-89~-8~-43~-185.3975~0~0~None~0~0, LightSource><468.0267><54.30182><1~Environment~0~100~50~86.60254~0~0~None~0~0, LightSource><481><363><0.1413043~White~-518~39~50~86.60254~0~1~None~0~0, DeepProcessing><309.3511><178.8665><-11~368~373~360~364~-12~-246~-95~1~1~0, 
 FadePalette: 23, 0

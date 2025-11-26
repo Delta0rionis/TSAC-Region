@@ -1,1 +1,9 @@
-Template: TX_SettingsTemplate_Underhang
+Template: tx_settingstemplate_underhang
+WaveSpeed: 0.50154
+WaveLength: 0.99923
+WaveAmplitude: 8.618048E-11
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Effects: FairyParticles-0.07608695-285-71, 
+PlacedObjects: FairyParticleSettings><1147.051><566.4767><61.99994~-342.3398~0~5.891302~6.43478~0~1~1.817255~418.4782~500~217.3913~304.3478~3.913043~6.521819~180~195.6522~0~0.7~0~0~1~1~0.06521739~0.02173913~6.791306~Circle~LINEAR~EXP~0~0~0, SteamPipe><295.0814><790.1827><-6~42, SteamPipe><788><778><-6~42, SteamPipe><593><799><88.99994~-2, WallSteamer><122.6665><237.8608><1~144, WallSteamer><944><218><1~144, LightSource><169.8729><765.3456><1~Environment~-87~47~-314~-90.39746~0~0~None~0~0, LightFixture><847.1222><864.3462><RedLight~17.32051~-10~58, LightSource><739.0001><641><0.1413043~EffectColor1~-153.9999~44~40~-125.3975~0~1~None~0~0, LightSource><313><641><0.1304348~EffectColor1~-161.9999~43~40~-125.3975~0~1~None~0~0, ColoredSnowSource><536.0084><201.3002><115~-22~0~37~18~Radial~False~233^45, FanLight><533.4493><340.9829><109.3205~-27~85~1~0~0~77~FanLightMask4~106~113~100~0, 
+FadePalette: 17, 0.8586958

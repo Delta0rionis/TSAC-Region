@@ -1,12 +1,13 @@
-tsac_landscape-6 : 20 : Normal
-tsac_landscape-5 : 12 : Normal
-tsac_landscape-4 : 10 : Normal
-tsac_landscape-3 : 6 : Normal
-tsac_landscape-2 : 3 : Normal
-tsac_landscape-1 : 1 : Normal
+tsac_landscape-6_a : 17 : Basic
+tsac_landscape-5_a : 12 : Basic
+tsac_landscape-4_a : 10 : Basic
+tsac_landscape-3_a : 6 : Basic
+tsac_landscape-2_a : 3 : Basic
+tsac_landscape-1_a : 1 : Basic
 
 blurMin : -0.2
-blurMax : 0.5
+blurMax : 0.8
 idleDepths : 10
 idleDepths : 6
 idleDepths : 4
+idleDepths : 1

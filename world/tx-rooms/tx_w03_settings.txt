@@ -1,2 +1,9 @@
-Template: TX_SettingsTemplate_Wall
-BackgroundType: backgroundtest1.txt
+Template: tx_settingstemplate_wall
+DangerType: Blizzard
+RainIntensity: 0.1521739
+RumbleIntensity: 0.6195652
+WaveSpeed: 0.4998366
+WaveLength: 0.9618748
+WaveAmplitude: 0.007569292
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0

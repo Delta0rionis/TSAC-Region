@@ -1,6 +1,9 @@
-Template: TS_SettingsTemplate_Lab
+Template: ts_settingstemplate_lab
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-Effects: ZeroG-1-20-20, 
+Clouds: 0
+Effects: ZeroG-1-20-20, SSSwarmers-0.07608695-20-130, ProjectedScanLines-0.1086956-280-123, 
+PlacedObjects: CoralCircuit><503.5679><353.4174><-133~70, CoralNeuron><798.4579><426.5545><-182.0001~-29, CoralNeuron><384.0579><135.8057><69~163, CoralNeuron><106.5681><470.8331><253~-65, WallMycelia><497.3749><592.594><-45~-162, WallMycelia><66.16638><347.639><124~92, WallMycelia><387.6616><131.1321><-42~122, WallMycelia><822.1954><435.7923><-84~48, SpotLight><188.4476><135.2195><-46.99997~424~546~448~580~8, LightSource><123.124><88.65527><1~Environment~0~100~-91~-122.3975~0~0~None~0~0, LightSource><845.7147><582.8031><1~Environment~0~100~-34~-150.3975~0~0~None~0~0, LightSource><966.6519><389.1302><1~Environment~-41~86~-79~-182.3975~0~0~None~0~0, LightSource><61.8627><538.3546><1~Environment~56~99~198~-82.39746~0~0~None~0~0, LightSource><481.6876><350.69><0.1847826~White~-378~98~50~86.60254~0~1~None~0~0, SuperStructureFuses><806.6758><422.5953><20~26, SuperStructureFuses><364><103><20~26, SuperStructureFuses><-56><261><59.00008~80, 
+FadePalette: 10, 0

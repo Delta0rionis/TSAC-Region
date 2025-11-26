@@ -1,6 +1,8 @@
-Template: NONE
+Template: ts_settingstemplate_cpu
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
+Grime: 0
 Effects: ZeroG-1-20-20, 
+PlacedObjects: ZapCoil><219.2678><136.4492><161~34, ZapCoil><558.776><257.6983><165~42, 

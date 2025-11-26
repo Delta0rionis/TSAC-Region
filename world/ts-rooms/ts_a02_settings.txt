@@ -4,10 +4,10 @@ RainIntensity: 0
 RumbleIntensity: 0
 Clouds: 1
 Grime: 0.07608695
-Palette: 97
+Palette: 23
 EffectColorA: 20
 EffectColorB: 5
-Effects: ZeroG-1-20-20, ZeroGSpecks-0.3152174-26-84, 
-PlacedObjects: LightFixture><445.4194><655.8937><RedLight~-401.6795~-57~93, LightFixture><0.654541><439.373><RedLight~17.32051~-10~53, LightFixture><854.3978><141.9219><RedLight~-103.6795~64~76, LightFixture><942.2544><559.95><RedLight~-92.67944~83~76, LightFixture><156.1033><37.63596><RedLight~-279.6795~120~94, SuperStructureFuses><510.3046><411.4572><77~201, LightFixture><553.0534><505.2867><DeepProcessing~17.32051~-10~7, LightSource><352.8542><294.363><0.6086956~EffectColor2~-301~62~50~86.60254~0~0~None~0~0, 
-AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><869.2512><580.55><0.3913043><0.9804348, OMNI><SO_SFX-Drowning.ogg><868.802><502.2216><0.2391304><1, SPOT><SO_SFX-Data4.ogg><761.661><491.3209><0.2826087><1><546.661><510.3209><-56.35535><-95.35535><0><0.1326088, 
-FadePalette: 17, 0.7826087
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.3152174-26-84, ReplaceEffectColorB-0-310-22-Color-1-0.1956522-0, 
+PlacedObjects: LightFixture><21.65448><643.373><RedLight~17.32051~-10~53, LightFixture><995.3978><153.9219><RedLight~-103.6795~64~76, SuperStructureFuses><510.3046><393.4572><78~226, LightSource><328.8542><325.363><1~EffectColor2~-301~62~-298~-192.3975~0~0~None~0~0, LightSource><746><358><0.6086956~EffectColor1~-359~23~50~86.60254~0~0~None~0~0, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><869.2512><580.55><0.3913043><0.9804348, OMNI><SO_SFX-Drowning.ogg><868.802><502.2216><0.3478261><1, SPOT><SO_SFX-Data4.ogg><761.661><491.3209><0.2826087><1><546.661><510.3209><-56.35535><-95.35535><0><0.1326088, 
+FadePalette: 17, 0.3369565

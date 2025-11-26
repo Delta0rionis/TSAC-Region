@@ -1,5 +1,11 @@
+Template: ts_settingstemplate_lab
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-Effects: ZeroG-1-20-20, 
+Clouds: 0
+Grime: 0
+Palette: 24
+Effects: ZeroG-1-20-20, SunBlock-0-283-16, 
+PlacedObjects: SuperStructureFuses><865.8732><2035.842><82~111, SuperStructureFuses><944.8315><384.5674><75~148, SuperStructureFuses><5.93306><598.4385><137~60, SuperStructureFuses><11.68242><1298.168><95~45, SuperStructureFuses><971.1678><1252.141><112~90, 
+FadePalette: 23, 0, 0, 0

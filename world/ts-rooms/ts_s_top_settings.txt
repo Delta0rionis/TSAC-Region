@@ -3,13 +3,13 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-Clouds: 0.1521739
+Clouds: 0.5
 Grime: 0
 RandomItemDensity: 0
 Palette: 1
 EffectColorA: 8
 EffectColorB: 20
-Effects: ZeroG-0.1413043-20-20, LightBurn-0.2826087-25-79, 
-PlacedObjects: SuperStructureFuses><30.44611><349.4608><117~239, 
-AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><454.8011><626.021><0.3913043><0.7456522, OMNI><AM_WIN-StrongWnd2.ogg><647.2391><625.1997><0.3043478><1, SPOT><SO_SFX-DataTrans2.ogg><28.40607><490.6249><0.4782609><1><61.40607><320.6249><31.64465><-145.3553><0><0.1543478, SPOT><SO_SFX-Pi.ogg><212.0566><486.0511><0.4021739><1><480.0566><162.0511><-46.35535><-87.35535><0><0.1434784, 
-FadePalette: 32, 0.6304348
+Effects: ZeroG-0.1413043-20-70, SkyAndLightBloom-0.01086957-20-125, 
+PlacedObjects: SuperStructureFuses><33.44611><352.4608><117~239, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><454.8011><626.021><0.2826087><0.6869565, OMNI><AM_WIN-StrongWnd2.ogg><647.2391><625.1997><0.2826087><1, SPOT><SO_SFX-DataTrans2.ogg><28.40607><490.6249><0.3695652><1><61.40607><320.6249><31.64465><-145.3553><0><0.1543478, SPOT><SO_SFX-Pi.ogg><212.0566><486.0511><0.4021739><1><480.0566><162.0511><-46.35535><-87.35535><0><0.1434784, 
+FadePalette: 32, 0.3695652

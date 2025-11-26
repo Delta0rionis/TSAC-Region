@@ -1,6 +1,8 @@
-Template: TS_SettingsTemplate_Lab
+Template: ts_settingstemplate_lab
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
+Clouds: 0
 Effects: ZeroG-1-20-20, 
+PlacedObjects: SpotLight><194.4495><135.3065><-42.00009~508~635~406~638~-97, 

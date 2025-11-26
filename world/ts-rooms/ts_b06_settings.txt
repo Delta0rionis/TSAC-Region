@@ -1,7 +1,11 @@
-Template: TS_SettingsTemplate_CPU
+Template: ts_settingstemplate_cpu
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
+Clouds: 0
 RandomItemDensity: 0.326087
-Effects: ZeroG-1-20-20, 
+Palette: 23
+Effects: ZeroG-1-20-20, SuperStructureProjector-0.1304345-287-17, DarkenLights-0.5000002-20-131, 
+PlacedObjects: LittlePlanet><469.4368><1112><-92~153~Color(~0~0~1~)~Alpha:~0.9021739~31~139~Speed:~0.108693, LittlePlanet><470.9106><371.119><-110~153~Color(~0~0~1~)~Alpha:~0.8586956~53~89~Speed:~0.1521713, LightFixture><474.8555><357.9199><ZapCoilLight~168.3205~11~39, LightFixture><462><1112><ZapCoilLight~260.3205~6~35, ZapCoil><191.3464><653.1281><40.99994~174, ZapCoil><728><658><42~166, LightFixture><220><732><ZapCoilLight~17.32051~-10~17, LightFixture><756><723><ZapCoilLight~17.32051~-10~17, CoralNeuron><470.7375><512.6996><-3~463, WallMycelia><472.95><368.256><0~100, WallMycelia><468><1116><0~100, 
+FadePalette: 10, 0, 0

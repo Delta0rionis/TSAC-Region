@@ -2,4 +2,7 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
+Palette: 23
 Effects: ZeroG-1-20-20, 
+PlacedObjects: LightSource><228.5516><1212.225><0.6847826~Environment~98.99997~55~-281~64.60254~0~0~None~0~0, LightSource><809><1109><0.6847826~Environment~-100~70~-79~-144.3975~0~0~None~0~0, LightSource><537><158><0.4347826~Environment~-86~96~-485~-110.3975~0~0~None~0~0, LightFixture><490.8082><483.6935><RedLight~171.3205~106~61, LightFixture><493.179><1289.839><RedLight~17.32051~-10~4, LightFixture><492.8456><930.1229><RedLight~17.32051~-10~93, WallMycelia><496.6064><155.4193><-17~177, WallMycelia><489><479><-29~125, WallMycelia><492><1299><-29~125, WallMycelia><488><929><-29~125, 
+FadePalette: 17, 0.1956522, 0.1956522

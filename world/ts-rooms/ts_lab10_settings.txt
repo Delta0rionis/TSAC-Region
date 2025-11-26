@@ -1,7 +1,8 @@
-Template: TS_SettingsTemplate_Lab
+Template: ts_settingstemplate_lab
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
 Clouds: 0
-Effects: ZeroG-1-20-20, 
+Effects: ZeroG-1-20-20, SSSwarmers-0.1521741-20-140, 
+PlacedObjects: WallMycelia><865.6415><450.168><-140~25, WallMycelia><136.1401><93.91711><110~147, WallMycelia><303.7164><628.3029><43~-118, WallMycelia><485.3019><90.47235><-5~146, WallMycelia><152.05><365.2551><121~71, SuperStructureFuses><70.85291><328.1145><47~111, SuperStructureFuses><732.1632><47.88443><78~65, SuperStructureFuses><810.6895><571.3142><65~46, LightSource><391.6886><63.43341><1~Environment~0~100~39~-80.39746~0~0~None~0~0, LightSource><156.6218><518.0965><1~Environment~112~46~-283~-15.39746~1~0~None~0~0, SpotLight><233.3618><218.1056><-20~403~481~314~499~-77, LightSource><598.6961><600.4608><1~Environment~-13~-121~26~-159.3975~0~0~None~0~0, WallMycelia><667.0001><587><32~-154, LightSource><497><366><0.1739137~White~-464~-254~26~-159.3975~0~1~None~0~0, CoralStem><820><304><-283~10, CoralStemWithNeurons><144.691><406.4406><273~-21, 

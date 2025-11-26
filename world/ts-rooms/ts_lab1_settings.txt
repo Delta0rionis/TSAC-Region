@@ -1,4 +1,4 @@
-Template: TS_SettingsTemplate_Archive
+Template: ts_settingstemplate_archive
 RainIntensity: 0
 RumbleIntensity: 0
 Clouds: 0
@@ -7,4 +7,5 @@ BkgDroneVolume: 0
 RandomItemDensity: 0.07608695
 RandomItemSpearChance: 0.02608689
 WaterReflectionAlpha: 1
+Palette: 24
 FadePalette: 23, 0

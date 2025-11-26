@@ -1,0 +1,9 @@
+Template: ts_settingstemplate_intake
+DangerType: None
+Clouds: 1
+EffectColorA: 5
+EffectColorB: 20
+Effects: WaterDepth-0.09782609-20-20, Fog-0.6195652-25-75, ZeroG-0.25-290-74, 
+PlacedObjects: LightFixture><31.44119><221.8087><RedLight~17.32051~-10~86, LightFixture><749.3846><652.8979><RedLight~17.32051~-10~6, LightFixture><180.3631><663.585><RedLight~17.32051~-10~67, LightFixture><962><190><RedLight~-52.67944~47~67, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><859.8355><530.3862><0.3369565><1, SPOT><SO_SFX-Heartbeat1.ogg><639.8304><567.1061><0.6413044><1><479.8304><433.1061><-361.3553><-89.35535><0><0.1760871, OMNI><AM_IND-ElectricHum01.ogg><858.3726><451.342><0.4347826><1, SPOT><SO_IND-FactoryM.ogg><461.5814><566.3173><0.5><0.2565217><481.5814><428.3173><-220.3553><-106.3553><0><0.252174, 
+FadePalette: 8, 0.8804348

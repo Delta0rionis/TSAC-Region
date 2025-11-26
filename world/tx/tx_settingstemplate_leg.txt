@@ -1,22 +1,22 @@
-DangerType: None
+DangerType: Blizzard
 CeilingDrips: 0.173913
-RainIntensity: 0.8043478
-RumbleIntensity: 0.6847826
-WaveSpeed: 0.465572
-WaveLength: 0.982786
-WaveAmplitude: 0.02870947
+RainIntensity: 0.173913
+RumbleIntensity: 0.3043478
+WaveSpeed: 0.4999193
+WaveLength: 0.9999596
+WaveAmplitude: 5.821105E-05
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
-Clouds: 0.5
+Clouds: 1
 Grime: 0.06521739
 BkgDroneVolume: 0.3
 BkgDroneNoThreatVolume: 1
 RandomItemDensity: 0.5
 RandomItemSpearChance: 0.2
 WaterReflectionAlpha: 1
-Palette: 14
+Palette: 1
 EffectColorA: 20
 EffectColorB: 8
-Effects: Lightning-0.6739131-21-78, Coldness-0.05434782-278-21, FairyParticles-1-282-80, GreenSparks-0.2826087-15-16, ExtraLoudThunder-0.4347826-20-133, 
+Effects: ElectricDeath-1-267-135, ReplaceEffectColorA-0-1094-163-Color-0-1-0, ReplaceEffectColorB-0-1071-50-Color-0-0-1, Lightning-0.6739131-21-78, Coldness-0.05434782-278-21, FairyParticles-1-282-80, GreenSparks-0.2826087-15-16, ExtraLoudThunder-0.4347826-20-133, 
 AmbientSounds: OMNI><AM_ENV-WallHum.ogg><859.1616><604.6178><0.3586957><0.8043478, OMNI><AM_WIN-StrongWnd2.ogg><861.1998><521.0084><0.5434783><0.726087, OMNI><AM_RAIN-Rumbles.ogg><865.3361><442.3646><0.5434783><0.8043478, OMNI><MSC-StructureStrain.ogg><866.9291><362.411><0.3369565><0.1, 
-FadePalette: 17, 0.6847826
+FadePalette: 17, 0.9021741

@@ -1,12 +1,12 @@
 
 Palette: 16
 overseersSpawnChance: 1
-overseersMin: 4
+overseersMin: 1
 overseersMax: 8
-overseersColorOverride(1.0, 0.18, 0.0): 0.98
-overseersColorOverride(0.06, 0.95, 0.19): 0.02
-inspectorColor: 1.0, 0.18, 0.0
-guideColor: 1.0, 0.2, 0.0
+overseersColorOverride(1.0, 0.13, 0.0): 0.98
+overseersColorOverride(0.059, 1.0, 0.137): 0.02
+inspectorColor: 1.0, 0.15, 0.0
+guideColor: 1.0, 0.15, 0.0
 guideShelterWeight: 1.2
 guideDestinationRoom: TX_HALL
 earlyCycleChance: 0.0
@@ -14,8 +14,59 @@ earlyCycleFloodChance: 0.0
 playerGuideOverseerSpawnChance: 1.0
 pupSpawnChance: 0.0
 Room Setting Templates: Leg, Underhang, Wall, Roof
-Subregion: Legs
-Subregion: Wall
-Subregion: Cliff
-Subregion: Underhang
-Subregion: Roof
+Subregion: The Nadir
+Subregion: Supports
+Subregion: The Roost
+Subregion: The Apex
+Subregion: The Palisade
+Room_Attr: TX_S_LEG: Vulture-Forbidden,MirosVulture-Forbidden,KingVulture-Forbidden,BlueLizard-Forbidden,WhiteLizard-Forbidden,LanternMouse-Avoid,
+Room_Attr: TX_LEG02: MirosVulture-Forbidden,Vulture-Forbidden,KingVulture-Forbidden,TubeWorm-Stay,
+Room_Attr: TX_LEGTEST: MirosVulture-Forbidden,Vulture-Forbidden,KingVulture-Forbidden,
+Room_Attr: TX_S03: KingVulture-Forbidden,Vulture-Forbidden,MirosVulture-Forbidden,
+Room_Attr: TX_LEG06: MirosVulture-Forbidden,Vulture-Forbidden,KingVulture-Forbidden,
+Room_Attr: TX_LEG00: MirosVulture-Forbidden,Vulture-Forbidden,KingVulture-Forbidden,TubeWorm-Stay,
+Room_Attr: TX_UH01: MirosVulture-Avoid,Vulture-Avoid,KingVulture-Avoid,
+Room_Attr: TX_UH02: MirosVulture-Forbidden,Vulture-Forbidden,KingVulture-Forbidden,
+Room_Attr: TX_LEG09: MirosVulture-Forbidden,Vulture-Forbidden,KingVulture-Forbidden,
+Room_Attr: TX_LEG10: Vulture-Avoid,MirosVulture-Avoid,KingVulture-Avoid,
+Room_Attr: TX_LEG11: MirosVulture-Avoid,Vulture-Avoid,KingVulture-Avoid,
+Room_Attr: TX_LEG12: MirosVulture-Avoid,Vulture-Avoid,KingVulture-Avoid,
+Room_Attr: TX_M02: KingVulture-Forbidden,Vulture-Forbidden,MirosVulture-Forbidden,
+Room_Attr: TX_M03: Vulture-Forbidden,MirosVulture-Forbidden,KingVulture-Forbidden,
+Room_Attr: TX_M01: Vulture-Neutral,MirosVulture-Avoid,KingVulture-Neutral,
+Room_Attr: TX_M04: Vulture-Neutral,KingVulture-Neutral,MirosVulture-Avoid,
+Room_Attr: TX_M05: MirosVulture-Avoid,Vulture-Neutral,KingVulture-Neutral,
+Room_Attr: TX_M06: Vulture-Neutral,KingVulture-Neutral,MirosVulture-Avoid,
+Room_Attr: TX_M07: MirosVulture-Avoid,Vulture-Neutral,KingVulture-Neutral,
+Room_Attr: TX_M08: Vulture-Neutral,KingVulture-Neutral,MirosVulture-Avoid,
+Room_Attr: TX_M10: Vulture-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,
+Room_Attr: TX_M11: MirosVulture-Forbidden,Vulture-Neutral,KingVulture-Neutral,
+Room_Attr: TX_M12: Vulture-Neutral,KingVulture-Neutral,MirosVulture-Forbidden,BlueLizard-Forbidden,WhiteLizard-Forbidden,LanternMouse-Forbidden,
+Room_Attr: TX_W03: KingVulture-Neutral,MirosVulture-Forbidden,LanternMouse-Forbidden,
+Room_Attr: TX_W04: MirosVulture-Forbidden,LanternMouse-Forbidden,
+Room_Attr: TX_W05: MirosVulture-Forbidden,LanternMouse-Forbidden,
+Room_Attr: TX_W06: MirosVulture-Forbidden,LanternMouse-Forbidden,
+Room_Attr: TX_W07: MirosVulture-Forbidden,LanternMouse-Forbidden,
+Room_Attr: GATE_TX_TS: Vulture-Forbidden,MirosVulture-Forbidden,KingVulture-Forbidden,BlueLizard-Forbidden,WhiteLizard-Forbidden,LanternMouse-Forbidden,
+Room_Attr: TX_HALL: Vulture-Forbidden,MirosVulture-Forbidden,KingVulture-Forbidden,BlueLizard-Forbidden,WhiteLizard-Forbidden,LanternMouse-Forbidden,
+Room_Attr: TX_W08: LanternMouse-Forbidden,KingVulture-Forbidden,Vulture-Forbidden,MirosVulture-Forbidden,
+Room_Attr: TX_W09: BlueLizard-Avoid,CyanLizard-Avoid,Vulture-Avoid,KingVulture-Avoid,MirosVulture-Forbidden,LanternMouse-Forbidden,
+Room_Attr: TX_W10: WhiteLizard-Avoid,CyanLizard-Avoid,Vulture-Forbidden,MirosVulture-Forbidden,PinkLizard-Avoid,LanternMouse-Forbidden,KingVulture-Forbidden,BlueLizard-Avoid,
+Room_Attr: TX_R01: CyanLizard-Forbidden,LanternMouse-Forbidden,Vulture-Forbidden,MirosVulture-Forbidden,KingVulture-Forbidden,YellowLizard-Forbidden,BlueLizard-Forbidden,WhiteLizard-Forbidden,
+Room_Attr: TX_R02: KingVulture-Forbidden,Vulture-Forbidden,MirosVulture-Forbidden,CyanLizard-Forbidden,BlueLizard-Forbidden,WhiteLizard-Forbidden,
+Room_Attr: TX_UH11: Vulture-Avoid,MirosVulture-Avoid,KingVulture-Avoid,
+Room_Attr: TX_LEG08: MirosVulture-Forbidden,Vulture-Forbidden,KingVulture-Forbidden,TubeWorm-Stay,
+Room_Attr: TX_W02V2: LanternMouse-Avoid,MirosVulture-Forbidden,
+Room_Attr: TX_UH03: Vulture-Avoid,MirosVulture-Avoid,KingVulture-Avoid,
+Room_Attr: TX_LEG04: KingVulture-Avoid,Vulture-Avoid,MirosVulture-Avoid,
+Room_Attr: TX_D03V2: Vulture-Neutral,KingVulture-Avoid,MirosVulture-Avoid,
+Room_Attr: TX_W01: LanternMouse-Avoid,MirosVulture-Forbidden,Vulture-Neutral,KingVulture-Neutral,
+Room_Attr: TX_UH05: YellowLizard-Neutral,Vulture-Avoid,KingVulture-Avoid,MirosVulture-Neutral,
+Room_Attr: TX_UH16: MirosVulture-Like,Vulture-Avoid,KingVulture-Avoid,YellowLizard-Like,
+Room_Attr: TX_LEG07: Vulture-Avoid,MirosVulture-Avoid,KingVulture-Avoid,
+Room_Attr: TX_M09: MirosVulture-Forbidden,Vulture-Neutral,KingVulture-Neutral,
+Room_Attr: TX_UH04: Centipede-Stay,Vulture-Forbidden,MirosVulture-Forbidden,KingVulture-Forbidden,
+Room_Attr: TX_D02X: LanternMouse-Like,MirosVulture-Forbidden,KingVulture-Forbidden,Vulture-Forbidden,
+Room_Attr: TX_UH07: Vulture-Avoid,MirosVulture-Avoid,KingVulture-Avoid,
+Room_Attr: TX_UH09: Vulture-Avoid,KingVulture-Avoid,MirosVulture-Like,YellowLizard-Like,
+Room_Attr: TX_UH10: MirosVulture-Forbidden,Vulture-Forbidden,KingVulture-Forbidden,

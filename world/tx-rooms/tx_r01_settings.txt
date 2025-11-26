@@ -1,7 +1,6 @@
-Template: NONE
+Template: tx_settingstemplate_wall
 DangerType: None
 Palette: 32
 Effects: AboveCloudsView-1-20-20, DayNight-1-26-74, 
 PlacedObjects: DayNightSettings><2028.699><504.7326><-29~62.66025~7~10, DayNightSettings><231.124><287.6553><5~8.660254~38~10, 
-FadePalette: 8, 0, -1, -1, -1, -1
-BackgroundType: backgroundtest1.txt
+FadePalette: 8, 0, 0, 0, 0, 0

@@ -1,6 +1,9 @@
-Template: TS_SettingsTemplate_CPU
+Template: ts_settingstemplate_cpu
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-Effects: ZeroG-1-20-20, 
+Palette: 23
+Effects: ZeroG-1-20-20, SunBlock-0-288-20, 
+PlacedObjects: ZapCoil><495.0107><1075.95><55~40, ZapCoil><404.8004><855.1935><46~166, ZapCoil><584.6914><853.5579><52~170, ZapCoil><1556.457><856.4453><28~176, ZapCoil><1368.128><856.4036><41~181, ZapCoil><1853.056><1152.692><37~132, ZapCoil><112><453.6262><39~135, ZapCoil><978.6202><365.1522><50~41, ZapCoil><1073.622><454.8466><31~133, ZapCoil><895.5651><455.9238><38~139, ZapCoil><1543.537><156.6965><51~183, ZapCoil><1455.584><378.6816><59~40, ZapCoil><1367.395><154.33><52~170, ZapCoil><1448.524><1066.552><66~39, CoralNeuron><1719.941><793.4399><0~567, CoralNeuron><162.801><650.0204><237~5, CoralNeuron><636.2427><659.1999><247~-5, WallMycelia><182.1199><1306.84><117~-122, CoralNeuron><606.5863><1126.385><4~202, CoralNeuron><417.891><1125.642><6~192, LightFixture><1008.553><382.7176><ZapCoilLight~17.32051~-10~23, LightFixture><994><81><ZapCoilLight~17.32051~-10~10, LightFixture><1485><321><ZapCoilLight~17.32051~-10~26, LightFixture><519><1101><ZapCoilLight~17.32051~-10~23, LightFixture><129><942><ZapCoilLight~17.32051~-10~10, LightFixture><127><519><ZapCoilLight~17.32051~-10~23, LightFixture><521><516><ZapCoilLight~17.32051~-10~10, LightFixture><1481><1002><ZapCoilLight~30.3205~70~25, LightFixture><1879><1217><ZapCoilLight~-1.679443~113~10, DeepProcessing><-29.17767><2.186478><-32~1473~2119~1469~2125~9~0~0~0.7065217~1~0.1195652, SuperStructureFuses><-52.38306><471.1494><96~111, SuperStructureFuses><1951.569><171.5622><97~137, SuperStructureFuses><1950.051><1151.23><111~139, SuperStructureFuses><451><148><140~134, SuperStructureFuses><-49><891><85~109, CoralNeuron><1600><405><235~213, WallMycelia><1762><554><117~-122, LightFixture><1008><960><ZapCoilLight~-66.67944~-130~10, 
+FadePalette: 17, 0.7934783, 0.8043478, 0.7934783, 0.7934783

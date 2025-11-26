@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Grime: 0
+Palette: 23
+EffectColorA: 8
+EffectColorB: 20
+Effects: SunBlock-1-20-20, SuperStructureProjector-0.05434782-29-71, SSSwarmers-0.05434782-283-20, ZeroG-0.8152174-291-72, FairyParticles-0.02173913-30-122, 
+PlacedObjects: ProjectedStars><504.973><255.3018><-264~21, WallMycelia><158.3037><367.9616><135~22, WallMycelia><847.4846><373.0506><-171~-12, FairyParticleSettings><574.1509><21.67371><-745~17.66024~1~1.521739~2.956523~0.08695652~6.220735~9.434219~43.47826~326.087~10.86957~97.82609~5~190.4349~0~360~0.3586957~0.3847829~0.4673913~0.4456522~0.1304348~0.1630435~0.7282609~1~5.516455~AncientGlyph~SIN_IO~SIN_IO~67.3913~0.3152174~0, 
+FadePalette: 99, 0.5869565

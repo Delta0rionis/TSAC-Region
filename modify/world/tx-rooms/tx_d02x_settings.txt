@@ -1,0 +1,6 @@
+[MERGE]
+WaveSpeed: 0.4999152
+WaveLength: 0.9999576
+WaveAmplitude: 7.425371E-09
+PlacedObjects: ColoredSnowSource><419.0706><992.0884><100~50~0~100~0~Radial~False~100^0, ColoredSnowSource><450.9474><990.5321><100~50~0~100~0~Radial~False~100^0, ColoredSnowSource><497.6925><967.6915><100~50~0~100~0~Radial~False~100^0, ColoredSnowSource><493.5536><383.538><100~50~0~100~0~Radial~False~398^-256, 
+[ENDMERGE]

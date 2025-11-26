@@ -1,0 +1,22 @@
+Template: ts_settingstemplate_intake
+DangerType: Flood
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.6630435
+WaveLength: 1
+WaveAmplitude: 0.6086956
+SecondWaveLength: 0.7427534
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0
+BkgDroneVolume: 0.3108696
+RandomItemDensity: 0.326087
+WaterReflectionAlpha: 0.7173913
+Palette: 12
+EffectColorA: 20
+EffectColorB: 19
+Effects: ZeroG-1-6-6, ZeroGSpecks-0.2717391-8-55, WaterDepth-0-269-70, SunBlock-0-265-127, SilenceWater-0-266-17, WaterFluxFrequency-0.9673913-779-638, WaterFluxMinLevel-0.2934783-784-531, WaterFluxMaxLevel-0.5978261-782-585, WaterFluxMinDelay-0.4456522-444-602, WaterFluxMaxDelay-0.4782609-444-551, WaterFluxSpeed-0.6521739-441-493, WaterFluxRumble-0.9239131-758-469, InvertedWater-0-7-115, 
+PlacedObjects: GravityDisruptor><1530.178><1133.063><, EnergySwirl><1529.34><1133.37><EffectColor1~-57~30~50~86.60254~0, AdjustableFan><519.345><1379.926><5~8.660254~0~0~0.845652~1, AdjustableFan><518.835><876.069><5~8.660254~0~0~0.845652~1, AdjustableFan><2544.875><879.4064><5~8.660254~0~0~0.845652~0.9239131, AdjustableFan><2545.002><1383.05><5~8.660254~0~0~0.8565216~0.9239131, AdjustableFan><1926.25><420.8><5~8.660254~0~1~0.8456527~1, AdjustableFan><1113.175><178.1855><5~8.660254~0~0~0.845652~1, AdjustableFan><1123.25><422.2><5~8.660254~0~0~0.845652~1, AdjustableFan><1929.907><178.6238><5~8.660254~0~1~0.8456527~1, WaterCurrent><1520.932><180.3324><-2~540~75.02541~188.6897, LightFixture><1528.684><1133.421><ZapCoilLight~161.3205~-40~83, FluxWaterfall><1040><1720><5~0.8478261~D~0~0, FluxWaterfall><1900><1740><5~0.8152174~D~0~0.06521738, LightFixture><1118.811><411.0666><RedSubmersible~7.320496~-62~40, LightFixture><1929.959><416.8043><RedSubmersible~8.320557~-50~90, LightFixture><1514.13><268.6524><ZapCoilLight~17.32051~-10~77, LightFixture><65><1126><ZapCoilLight~17.32051~-10~57, LightFixture><521><1384><RedSubmersible~8.320557~-50~90, LightFixture><526><868><RedSubmersible~8.320557~-50~90, LightFixture><2942><1127><ZapCoilLight~8.320557~-50~56, LightFixture><2541><1383><RedSubmersible~11.32056~-74~90, LightFixture><2542><874><RedSubmersible~13.32056~-72~90, LightFixture><1514.476><1842.698><ZapCoilLight~17.32051~-10~81, LightFixture><917.6938><1917.049><RedSubmersible~17.32051~-10~76, LightFixture><1996.806><1962.797><RedSubmersible~17.32051~-10~29, LightFixture><941.8339><1277.932><RedSubmersible~17.32051~-10~97, LightFixture><2100.806><1314.952><RedSubmersible~17.32051~-10~14, LightSource><2133.411><1113.132><0.4673913~EffectColor2~868~24~50~86.60254~0~0~None~0~0, LightSource><899><1162><0.3913043~EffectColor2~868~24~59~-107.3975~0~0~None~0~0, LightSource><1115><297><1~EffectColor2~868~24~-258~74.60251~0~0~None~0~0, LightSource><1928><313><1~EffectColor2~868~24~-277~11.60251~0~0~None~0~0, 
+AmbientSounds: SPOT><SO_IND-FactoryM.ogg><274.3239><409.1553><0.3369565><0.1978261><1526.324><1141.155><-241.3553><-197.3553><0><0.5456523, OMNI><SO_SFX-DeepStoneBass.ogg><676.5933><535.1769><0.2391304><1, SPOT><SO_SFX-Escape.ogg><47.30023><356.0095><0.2282609><1><1523.3><1141.01><-267.3553><-274.3553><0><0.06739127, OMNI><SO_WAT-OpenFlow.ogg><675.0338><606.8029><0.2173913><1, SPOT><SO_SFX-Heartbeat1.ogg><75.55255><191.4681><0.3804348><0.6282609><1521.552><1137.468><-272.3553><-219.3553><0><0.4695652, OMNI><AM_IND-ElectricHum01.ogg><673.3726><456.342><0.2717391><1, 
+FadePalette: 8, 0.8913044, 0.8695652, 0.8913044, 0.8804348, 0.8804348, 0.8913044, 0.8913044, 0.8804348, 0.8695652

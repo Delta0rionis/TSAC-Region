@@ -1,0 +1,11 @@
+tx_ss-5 : 29 : Basic
+tx_ss-4 : 20 : Basic
+tx_ss-3 : 11 : Basic
+tx_ss-2 : 6 : Basic
+tx_ss-1 : 3 : Basic
+
+blurMin : 0.0
+blurMax : 0.8
+idleDepths : 5
+idleDepths : 20
+idleDepths : 1

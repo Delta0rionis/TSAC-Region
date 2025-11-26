@@ -1,0 +1,19 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.1304348
+RainIntensity: 0.4673913
+RumbleIntensity: 0.5
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 2.912846E-05
+SecondWaveLength: 0.1014494
+SecondWaveAmplitude: 0.08695652
+Clouds: 0
+Grime: 0
+Palette: 23
+EffectColorA: 1
+EffectColorB: 2
+Effects: ZeroG-0.4021739-10-11, Fog-0.1304348-14-62, WaterDepth-0.1521739-264-9, ZeroGSpecks-0.1521739-269-63, LightBurn-0.07608695-16-117, SunBlock-1-272-120, ProjectedScanLines-0.3586957-537-13, WaterFluxSpeed-0.2826087-1062-522, 
+PlacedObjects: CoralNeuron><346.684><439.3284><209~-11, CoralNeuron><1958.352><493.6342><312~13, CoralNeuron><2823.554><191.6926><-14~337, LightFixture><2107.269><375.4491><RedLight~52.3205~-25~91, LightFixture><2963.668><370.1823><RedLight~17.32051~-10~66, LightSource><2776.004><617.45><1~Environment~-11~-98~44~-214.3975~0~0~None~0~0, LightFixture><2585.093><296.8763><ZapCoilLight~17.32051~-10~23, LightFixture><2717.31><110.3135><RedLight~17.32051~-10~27, LightFixture><1401.262><313.4496><ZapCoilLight~17.32051~-10~11, LightFixture><1400.145><560.1374><RedLight~17.32051~-10~29, LightFixture><1403.055><111.2936><RedLight~17.32051~-10~37, LightFixture><458.0542><299.959><ZapCoilLight~-8.679504~26~39, LightFixture><79.44617><392.3074><RedLight~17.32051~-10~64, LightFixture><816.0597><448.4385><RedLight~17.32051~-10~47, LightSource><805.5982><614.6742><1~Environment~-13~-103~58.99994~-83.39752~0~0~None~0~0, LightSource><942.4457><44.54144><1~Environment~-17~119~50~86.60254~0~0~None~0~0, CoralStem><1399.925><468.8146><-2~-172, WallMycelia><1402.645><477.3882><-26~58, WallMycelia><2754.312><600.681><21~-86, WallMycelia><2101.113><618.3546><10~-119, WallMycelia><445.4223><556.1016><35~-132, WallMycelia><813.1682><612.1083><-39~-74, 
+AmbientSounds: SPOT><SO_SFX-Heartbeat1.ogg><88.9071><487.1237><0.2717391><0.823913><-117.0929><430.1237><276.6447><-160.3553><0><0.1652175, 
+FadePalette: 10, 0.423913, 0.423913, 0.423913

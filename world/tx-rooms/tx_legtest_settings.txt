@@ -1,0 +1,13 @@
+CeilingDrips: 0.04347826
+RainIntensity: 0.06521739
+RumbleIntensity: 0.3043478
+WaveSpeed: 0.5000545
+WaveLength: 0.9999728
+WaveAmplitude: 2.286502E-11
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Palette: 1
+Effects: FairyParticles-0.2282605-284-76, 
+PlacedObjects: FairyParticleSettings><271.903><16.87125><76.00003~-389.3398~0~5.891302~6.43478~0~1~1.817255~418.4782~500~217.3913~304.3478~3.913043~6.521819~180~195.6522~0~0.7~0~0~0.2934783~1~0.06521739~0.02173913~6.791306~Circle~LINEAR~EXP~0~0~0, LightFixture><913.1812><352.8122><RedLight~17.32051~-10~51, LightFixture><903.4227><624.1008><RedLight~17.32051~-10~71, LightFixture><7.449875><514.9937><RedLight~17.32051~-10~56, ColoredSnowSource><481.416><377.8616><-19~134~0~63~100~Radial~False~325^-210, ColoredSnowGroup><637.5687><65.66559><100~50~0~8~30~FFFFFF~255~FFFFFF~255, 
+FadePalette: 17, 0.8804353

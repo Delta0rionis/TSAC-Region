@@ -4,7 +4,7 @@ RainIntensity: 0
 RumbleIntensity: 0
 Clouds: 1
 Grime: 0.1195652
-Palette: 18
+Palette: 24
 Effects: ZeroG-1-20-20, 
-PlacedObjects: LightFixture><-21.42654><487.594><RedLight~17.32051~-10~44, LightFixture><214.6728><29.93448><RedLight~17.32051~-10~17, LightFixture><709.6412><586.3584><RedLight~17.32051~-10~61, LightFixture><926.7991><242.8061><RedLight~17.32051~-10~74, LightSource><49.11707><367.6006><1~Environment~83~4~-224~-155.3975~0~0~None~0~0, LightSource><594.0912><92.17798><1~Environment~0~100~50~86.60254~0~0~None~0~0, LightFixture><300.3><673.0059><RedLight~17.32051~-10~60, LightSource><887.9326><530.9383><1~Environment~-94~-23~-401~-130.3975~0~0~None~0~0, 
-FadePalette: 17, 0.8260869
+PlacedObjects: LightFixture><791.7991><166.8061><RedLight~17.32051~-10~74, LightSource><49.11707><367.6006><0.5~Environment~83~4~-224~-155.3975~0~0~None~0~0, LightSource><593.0912><100.178><0.326087~Environment~0~100~215~158.6025~0~0~None~0~0, LightFixture><426.3><627.0059><RedLight~20.3205~-66~60, LightSource><762.9326><569.9383><0.3913043~Environment~-150~-55~-62~-158.3975~0~0~None~0~0, ExitSymbolHidden><866.9445><524.0469><, ExitSymbolHidden><854.1271><524.6544><, AdjustableFan><194.6088><121.9178><5~8.660254~0~0.4~0.2913049~1, AdjustableFan><313.6724><121.6487><5~8.660254~0~0.4~0.2913042~1, LightSource><250><123><0.7065217~Environment~-100~-44~-1~-114.3975~0~0~None~0~0, LightSource><107><554><0.7065217~Environment~-100~-44~166~2.602539~0~0~None~0~0, 
+FadePalette: 17, 0.8043478

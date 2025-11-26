@@ -7,6 +7,6 @@ Palette: 18
 EffectColorA: 20
 EffectColorB: 20
 Effects: ZeroG-0.4021739-31-91, 
-PlacedObjects: LightSource><265.9178><268.8913><1~EffectColor1~0~100~50~86.60254~0~0~None~0~0, LightSource><698.1948><275.7048><1~EffectColor1~0~100~50~86.60254~0~0~None~0~0, LightSource><492.3248><428.5966><1~Environment~0~100~50~86.60254~0~0~None~0~0, LightFixture><490.9807><193.1991><RedLight~17.32051~-10~94, 
+PlacedObjects: LightSource><489.3248><415.5966><0.3478261~Environment~0~100~50~86.60254~0~0~None~0~0, LightFixture><337.9807><167.1991><RedLight~17.32051~-10~37, 
 AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><856.0589><607.0588><0.4021739><0.823913, 
 FadePalette: 17, 0.8369565

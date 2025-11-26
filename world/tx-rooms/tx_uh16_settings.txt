@@ -1,0 +1,9 @@
+Template: tx_settingstemplate_underhang
+WaveSpeed: 0.5021961
+WaveLength: 0.998902
+WaveAmplitude: 7.908636E-08
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Effects: FairyParticles-0.9456522-286-76, Fog-0.2065214-286-127, 
+PlacedObjects: FairyParticleSettings><1206.584><2221.611><3~-356.3398~0~4.260851~5.891286~0.02173913~1.716524~2.785407~309.7825~500~326.087~1000~32.3913~41.73924~219.1303~258.2608~0.5~0.7~0~0~0.5760867~1~1~0.2282609~6.791306~Circle~LINEAR~SIN_IO~0~0~2.391304, SlimeMold><307.5651><485.0609><-369~-59~2~3, SlimeMold><317.4599><448.054><-380~-45~2~3, SlimeMold><367.4102><424.0713><-431~-43~2~3, CosmeticSlimeMold><358.3053><456.5458><-1~81, LightFixture><352.3135><452.1777><SlimeMoldLight~-417.6795~-147.0416~57, CosmeticSlimeMold><553><293.0001><-16~84, SlimeMold><589><310.9388><-350~-34.98679~2~3, SlimeMold><507><278.0001><-267~-25.98679~2~3, SlimeMold><857.0001><432.0001><18.99994~-69.98679~2~3, CosmeticSlimeMold><862><459.0001><-55~38, LightFixture><871><452.0001><SlimeMoldLight~8.320435~-162.0416~57, LightFixture><557><286.0001><SlimeMoldLight~-316.6796~-51.0416~57, DangleFruit><783.6658><1426.299><0~0~2~3, DangleFruit><821><1376.984><0~0~2~3, DangleFruit><641><1021.005><0~0~2~3, DangleFruit><596><994.0712><0~0~2~3, DangleFruit><263><1935><0~0~2~3, DangleFruit><237><1903><0~0~2~3, LightFixture><595><694><RedLight~15.32043~6.958374~57, LightFixture><619><1348><RedLight~15.32043~6.958374~57, LightFixture><591><1872><RedLight~15.32043~6.958374~57, LightSource><271.8021><2317.721><1~Environment~-29~-113~-297~-22.39746~0~0~None~0~0, LightSource><920><2311><1~Environment~-25~-104~80~-58.39752~0~0~None~0~0, LightSource><456><2385><0.6956522~Environment~-24~-117~3~-140.3975~0~0~None~0~0, LightSource><709><2389><0.6956522~Environment~-24~-117~3~-140.3975~0~0~None~0~0, 
+FadePalette: 17, 0.8478262, 0.804348, 0.7391306

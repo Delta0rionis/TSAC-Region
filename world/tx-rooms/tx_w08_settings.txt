@@ -1,1 +1,8 @@
-Template: TX_SettingsTemplate_Wall
+Template: tx_settingstemplate_wall
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 5.605194E-45
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0

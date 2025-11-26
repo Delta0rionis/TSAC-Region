@@ -1,0 +1,16 @@
+Template: tx_settingstemplate_wall
+DangerType: Blizzard
+CeilingDrips: 0.02173913
+RainIntensity: 0.2065221
+RumbleIntensity: 1
+WaveSpeed: 0.4984178
+WaveLength: 0.9475784
+WaveAmplitude: 0.01025128
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.2608696
+Grime: 0.09782609
+Palette: 1
+Effects: FairyParticles-1-20-20, Coldness-0.01086957-272-71, Fog-0.2608696-21-122, ReplaceEffectColorA-0-1079-39-Color-0-1-0, ReplaceEffectColorB-0-1073-156-Color-0-0-1, 
+PlacedObjects: FairyParticleSettings><533.316><66.93896><28~-338.3398~0~5.891302~6.43478~0~1~1.817255~418.4782~500~217.3913~304.3478~3.913043~6.521819~238.6957~183.913~0~0.7~0~0~0.2934783~1~0.06521739~0.02173913~6.791306~Circle~LINEAR~EXP~0~0~0, AdjustableFan><120.3213><420.6869><5~8.660254~0~0.1065216~0.3021738~0.8586956, AdjustableFan><-98><422><5~8.660254~0~0.1065216~0.3021738~0.8586956, AdjustableFan><-101><539><5~8.660254~0~0.1065216~0.3021738~0.8586956, AdjustableFan><-124><1419><5~8.660254~0~0.1065216~0.2695651~0.8478261, SteamPipe><219.8066><1247.949><29~51, SteamPipe><56.43637><1248.677><29~43, WallSteamer><916.1959><1326.04><107~0, WallSteamer><824.5502><1211.492><138~0, WallSteamer><797><873><121~-2, WallSteamer><947><958><86~-5, WallSteamer><866><562><161~-2, WallSteamer><849><435><159~-1, SteamPipe><443><628><47~-1, SteamPipe><226><740><53~0, SteamPipe><-117><204><38~4, SteamPipe><-110><668><48~1, SteamPipe><372><879><0~42, SteamPipe><595><869><-1~38, HeatArea><769.7241><546.3017><282~43, HeatArea><775><1308><282~43, HeatArea><748><950><326~43, RoomPopupTrigger><5.059814><67.68814><100~50~Stay close to heat sources to stave off the cold.~0~6~-1~1~True~True~5, ColouredLightSource><892.8583><1284.418><-81~75~FF0000~169^-59~0.7173913~False~0.5~0~0.5~Always~0~100, ColouredLightSource><895><918><-81~75~FF0000~169^-59~0.7173913~False~0.5~0~0.5~Always~0~100, ColouredLightSource><914><525><-81~75~FF0000~169^-59~0.7173913~False~0.5~0~0.5~Always~0~100, 
+FadePalette: 33, 0.4130435, 0.5652174

@@ -1,10 +1,17 @@
-Template: TX_SettingsTemplate_Wall
+Template: tx_settingstemplate_wall
+DangerType: Blizzard
+RainIntensity: 0.3043478
+RumbleIntensity: 0.4673913
+WaveSpeed: 0.4984745
+WaveLength: 0.9231503
+WaveAmplitude: 0.01528937
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
 Clouds: 0.4565217
 Grime: 0.05434782
-Palette: 12
+Palette: 1
 EffectColorA: 20
-EffectColorB: 3
+EffectColorB: 8
 Effects: FairyParticles-1-20-20, BkgOnlyLightning-0.1847826-284-88, 
-PlacedObjects: FairyParticleSettings><-132.715><312.0531><-167~23.66025~0~5.891302~6.43478~0~1~1.817255~418.4782~500~217.3913~304.3478~3.913043~6.521819~238.6957~183.913~0~0.7~0~0~0.3695652~0.75~0.06521739~0.02173913~6.791306~Circle~LINEAR~EXP~0~0~0, SnowSource><457.4393><323.9355><Strip~283~25~-591~-72.39746~1~0, SeedCob><482.0298><454.4478><0~0~2~10, DeadSeedCob><392.8845><425.1019><, PureCrystalPlant><851.1196><179.9016><0~0~2~3, 
+PlacedObjects: FairyParticleSettings><324.285><261.0531><-167~23.66025~0~4.260851~5.891286~0.02173913~1.716524~2.785407~309.7825~500~326.087~1000~32.3913~41.73924~219.1303~258.2608~0.5~0.7~0~0~0.5760867~1~1~0.2282609~6.791306~Circle~LINEAR~SIN_IO~0~0~2.391304, SnowSource><457.4393><323.9355><Strip~283~25~-591~-72.39746~1~0, SeedCob><482.0298><454.4478><0~0~2~10, DeadSeedCob><392.8845><425.1019><, 
 FadePalette: 33, 0.7065217, 0.6195652
-BackgroundType: backgroundtest1.txt

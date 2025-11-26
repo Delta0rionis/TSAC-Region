@@ -1,6 +1,8 @@
-Template: TS_SettingsTemplate_Lab
+Template: ts_settingstemplate_lab
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-Effects: ZeroG-1-20-20, 
+Effects: ZeroG-1-20-20, SSSwarmers-0.07608695-18-133, ProjectedScanLines-0.0326087-278-127, 
+PlacedObjects: SpotLight><130.8565><171.1107><14~428~629~446~633.0001~-5, SuperStructureFuses><23.81717><53.66891><142~93, SuperStructureFuses><746.8795><133.9096><55~57, SuperStructureFuses><322.1661><594.8613><80~85, LightSource><478.3707><361.3474><0.1521737~White~372.9999~-329~-381~16.60254~0~1~None~0~0, LightSource><669.9501><633.4976><1~Environment~9~-100~49~-178.3975~0~0~None~0~0, LightSource><347.5552><61.45496><1~Environment~0~100~50~86.60254~0~0~None~0~0, WallMycelia><343.4207><606.3956><-1~-161, WallMycelia><171.4036><143.3719><117~107, WallMycelia><778.7629><162.3004><-1~115, CoralStem><528.7922><448.4455><-10.99994~-290, 
+FadePalette: 23, 0

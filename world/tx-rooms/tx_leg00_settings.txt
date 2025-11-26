@@ -1,1 +1,11 @@
-PlacedObjects: FairyParticleSettings><1006.948><21.52432><82~8.660248~0~5.891302~6.43478~0~1~1.817255~418.4782~500~217.3913~304.3478~3.913043~6.521819~238.6957~183.913~0~0.7~0~0~0.3695652~0.75~0.06521739~0.02173913~6.791306~Circle~LINEAR~EXP~0~0~0, 
+DangerType: Blizzard
+RainIntensity: 0.4891304
+WaveSpeed: 0.5045829
+WaveLength: 0.9977085
+WaveAmplitude: 2.332081E-06
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Effects: ReplaceEffectColorB-0-1088-49-Color-0-0-1, ReplaceEffectColorA-0-1089-165-Color-0-1-0, ElectricDeath-1-274-130, 
+PlacedObjects: FairyParticleSettings><1578.948><20.52432><48~-316.3398~0~5.891302~6.43478~0~1~1.817255~418.4782~500~217.3913~304.3478~3.913043~6.521819~238.6957~183.913~0~0.7~0~0~0.2934783~1~0.06521739~0.02173913~6.791306~Circle~LINEAR~EXP~0~0~0, LightFixture><1973.832><228.4326><RedLight~-65.67944~-102~96, LightFixture><965.2><439.2442><RedLight~17.32051~-10~10, LightFixture><31.69162><495.9427><RedLight~-199.6795~-83~57, SnowSource><375.5571><485.3083><Strip~-323~38~50~86.60254~1~0, SnowSource><1591><479><Strip~-323~38~66~10.60254~1~0, SnowSource><405><1327><Strip~-323~38~50~86.60254~1~0, SnowSource><1572><1322><Strip~-323~38~50~86.60254~1~0, LightFixture><1970><1063><RedLight~-147.6795~54~96, LightFixture><1235><1243><RedLight~-199.6795~-83~57, LightFixture><40><1021><RedLight~-147.6795~54~96, LightFixture><764><1251><RedLight~-199.6795~-83~57, LightSource><58.50476><330.2><1~Environment~0~100~50~86.60254~0~0~None~0~0, LightSource><1952><325><1~Environment~0~100~-10~116.6025~0~0~None~0~0, DangleFruit><1541.479><160.1989><124~-120~2~3, DangleFruit><1448.181><139.4158><-47~-98~2~3, DangleFruit><486.6168><148.1008><0~0~2~3, DangleFruit><323.4044><100.5744><0~0~2~3, DangleFruit><369.3942><151.8303><0~0~2~3, DangleFruit><493.8521><997.172><0~0~2~3, DangleFruit><342.5513><976.4433><0~0~2~3, SnowSource><1602><821><Strip~-127~15~50~86.60254~1~0, SteamPipe><852.568><60.9379><1~42, SteamPipe><1234.064><332.6774><4~47, SteamPipe><772.3268><348.8499><0~40, SteamPipe><580><1195><3~34, SteamPipe><727><1377><3~34, SteamPipe><932><1190><3~34, SteamPipe><1077><1191><3~34, SteamPipe><1761><1196><3~34, SteamPipe><1225><1190><3~34, FanLight><995.6682><136.3584><87.3205~-46~34~1~0~0~50~FanLightMask1~-3~40~100~0, FanLight><1000><1447><82.3205~-175~34~1~0~0~50~FanLightMask1~-3~40~100~0, HeatArea><731.694><333.9511><80~80, 
+FadePalette: 17, 0.8043478, 0.7826087, 0.7934783, 0.7717391

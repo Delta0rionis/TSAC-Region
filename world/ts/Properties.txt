@@ -3,18 +3,38 @@ Palette: 23
 overseersSpawnChance: 0
 overseersMin: 0
 overseersMax: 0
-overseersColorOverride(1.0, 0.2, 0.0): 1
-inspectorColor: 1.0, 0.2, 0.0
-guideColor: 1.0, 0.2, 0.0
+overseersColorOverride(1.0, 0.1765, 0.0): 1.0
+inspectorColor: 1.0, 0.13, 0.0
+guideColor: 1.0, 0.1765, 0.0
 earlyCycleChance: 0.0
 earlyCycleFloodChance: 0.0
 playerGuideOverseerSpawnChance: 0.0
 pupSpawnChance: 0.0
+corruptionEffectColor: 0.90, 0.27, 0.34
+corruptionEyeColor: 0.063, 0.055, 0.039
 Room Setting Templates: Inside, Lab, Intake, CPU, Archive
 Subregion: Three Stars Above Clouds
 Subregion: Three Stars Above Clouds (Data Archive)
 Subregion: Three Stars Above Clouds (Cognitive Nexus)
 Subregion: Three Stars Above Clouds (Memory Conflux)
-Subregion: Three Stars Above Clouds (Sequential Processing Syzygy)
 Subregion: Intake Ducts
-Room_Attr: ts_lab02: Inspector-Stay,
+Subregion: Three Stars Above Clouds (Sequential Processing Syzygy)
+Room_Attr: TS_LAB03: Inspector-Like,
+Room_Attr: TS_F03: Inspector-Neutral,
+Room_Attr: TS_C03_V2: Inspector-Neutral,
+Room_Attr: TS_LAB14: Inspector-Like,
+Room_Attr: TS_LAB15: Inspector-Like,
+Room_Attr: TS_LAB02: Inspector-Neutral,
+Room_Attr: TS_S_LAB: Inspector-Forbidden,
+Room_Attr: TS_LAB11: Inspector-Like,
+Room_Attr: TS_LAB10: Inspector-Like,
+Room_Attr: TS_LAB06: Inspector-Like,
+Room_Attr: TS_LAB04: Inspector-Like,
+Room_Attr: TS_LAB05: Inspector-Like,
+Room_Attr: TS_LAB07: Inspector-Like,
+Room_Attr: TS_LAB08: Inspector-Like,
+Room_Attr: TS_LAB09: Inspector-Neutral,
+Room_Attr: TS_LAB12: Inspector-Like,
+Room_Attr: TS_LAB13: Inspector-Like,
+Room_Attr: TS_LAB01: Inspector-Like,
+Room_Attr: TS_ARC_C01: Inspector-Neutral,
