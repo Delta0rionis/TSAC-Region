@@ -5,8 +5,8 @@
 	"hide_version": true,
 	"authors": "DeltaOrionis",
 	"description": "Custom region for the iterator OC Three Stars Above Clouds. <LINE>Still a very early work in progress. <LINE>The only way to access this region is through the Warp mod. If you would like to explore it organically, I recommend loading into the room TS_A01 first.",
-	"requirements": ["pom", "crs", "regionkit", "warp", "iteratorCreator"],
-	"requirements_names": ["POM", "Custom Regions Support", "RegionKit", "Warp Menu", "Iterator Creator"],
+	"requirements": ["pom", "crs", "regionkit", "warp"],
+	"requirements_names": ["POM", "Custom Regions Support", "RegionKit", "Warp Menu"],
 	"priorities": ["moreslugcats", "watcher"],
 	"checksum_override_version": false,
 	"tags": ["Region"]

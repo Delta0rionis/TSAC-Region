@@ -1,12 +1,12 @@
-Template: NONE
 DangerType: None
-WaveSpeed: 0.5138663
-WaveLength: 0.9930668
-WaveAmplitude: 0.03187898
+WaveSpeed: 0.5068841
+WaveLength: 0.996558
+WaveAmplitude: 0.02582198
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Clouds: 1
 Grime: 0
 Palette: 1
-Effects: Lightning-0.2608696-27-124, 
+Effects: Lightning-0.2608696-27-124, FairyParticles-0-30-30, 
+PlacedObjects: LightFixture><189.5806><540.1437><RedLight~17.32051~-10~39, LightFixture><549.1235><124.5927><RedLight~17.32051~-10~8, 
 FadePalette: 17, 0.8260869
