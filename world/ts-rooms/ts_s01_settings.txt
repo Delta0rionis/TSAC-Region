@@ -8,5 +8,5 @@ EffectColorA: 20
 EffectColorB: 20
 Effects: ZeroG-0.4021739-21-130, 
 PlacedObjects: LightSource><489.3248><415.5966><0.3478261~Environment~0~100~50~86.60254~0~0~None~0~0, LightFixture><337.9807><167.1991><RedLight~17.32051~-10~37, 
-AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><856.0589><607.0588><0.4021739><0.823913, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><856.0589><607.0588><0.4021739><0.823913, SPOT><SO_IND-FlourLight.ogg><339.817><440.8306><0.3804348><1><385.817><222.8306><-85.35535><-60.35535><0><0.1760871, 
 FadePalette: 17, 0.8369565

@@ -1,10 +1,10 @@
 Template: tx_settingstemplate_wall
 DangerType: Blizzard
-RainIntensity: 0.05434782
+RainIntensity: 0.0326087
 RumbleIntensity: 0.2282609
-WaveSpeed: 0.4999632
-WaveLength: 0.9863946
-WaveAmplitude: 0.002717226
+WaveSpeed: 0.500024
+WaveLength: 0.999988
+WaveAmplitude: 3.215869E-05
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Clouds: 0.1413043

@@ -5,7 +5,7 @@ RainIntensity: 0
 RumbleIntensity: 0.5
 WaveSpeed: 0.5
 WaveLength: 1
-WaveAmplitude: 2.052097E-05
+WaveAmplitude: 1.846887E-05
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Clouds: 0.1956522
@@ -15,4 +15,5 @@ EffectColorA: 8
 EffectColorB: 20
 Effects: None-0-1071-220, ExtraLoudThunder-0.6847826-1080-101, ElectricDeath-0.06521739-1074-161, FairyParticles-0.04347826-1075-47, ReplaceEffectColorA-0-1084-412-Color-0-1-0, ReplaceEffectColorB-0-810-401-Color-0-0-1, 
 PlacedObjects: LightSource><99.85138><391.1339><1~Environment~0~100~-257~130.6025~0~0~None~0~0, LightSource><906.1904><406.439><0.5652174~EffectColor1~-119~3~-108~-250.3975~0~0~None~0~0, LightSource><2735><482><0.4021739~Environment~-4~-135~56~-168.3975~0~0~None~0~0, LightFixture><1989><617><RedLight~956.3206~-561~51, SnowSource><176.1283><342.5966><Strip~121~-22~-347~-26.39746~1~0, LightSource><443><406><0.5217391~EffectColor1~-119~3~-128~-210.3975~0~0~None~0~0, LightSource><206><407><0.7826087~EffectColor2~-119~3~-40~105.6025~0~0~None~0~0, LightSource><666><405><0.5978261~EffectColor2~-119~3~-120~103.6025~0~0~None~0~0, LightSource><1153><402><0.5652174~EffectColor2~-119~3~-138~126.6025~0~0~None~0~0, LightSource><1390><407><0.5652174~EffectColor1~-119~3~-108~-239.3975~0~0~None~0~0, LightSource><1842><407><0.5652174~EffectColor1~-119~3~-114~-247.3975~0~0~None~0~0, LightSource><2343><405><0.2391304~EffectColor1~-118~-6~-23~-208.3975~0~0~None~0~0, LightSource><1624><395><0.5652174~EffectColor2~-119~3~-138~124.6025~0~0~None~0~0, LightSource><2099><406><0.5652174~EffectColor2~-119~3~-67~105.6025~0~0~None~0~0, LightFixture><1328><177><RedLight~-51.67944~-109~51, FairyParticleSettings><-54.40904><354.428><-3~-394.3398~0~5.891302~6.43478~0~1~1.817255~418.4782~500~217.3913~304.3478~3.913043~6.521819~180~195.6522~0~0.7~0~0~0.2934783~1~0.06521739~0.02173913~6.791306~Circle~LINEAR~EXP~0~0~0, LightFixture><3032><428><RedLight~-28.67944~150~51, LightFixture><2081><165><RedLight~726.3206~-29~51, 
+AmbientSounds: SPOT><AM_IND-SuperStructure.ogg><665.1996><512.9436><0.2717398><1><2792.2><409.9436><-302.3553><-34.35535><0><0.6869553, SPOT><SO_IND-FlourLight.ogg><664.6227><320.6578><0.5><1><2834.623><397.6578><-60.35535><-91.35535><0><0.2847827, 
 FadePalette: 17, 0.804348, 0.8478262, 0.8804349

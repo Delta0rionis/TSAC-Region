@@ -1,0 +1,8 @@
+Template: tx_settingstemplate_wall
+DangerType: Blizzard
+RainIntensity: 0.02173913
+WaveSpeed: 0.4999949
+WaveLength: 0.9999974
+WaveAmplitude: 3.742657E-06
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0

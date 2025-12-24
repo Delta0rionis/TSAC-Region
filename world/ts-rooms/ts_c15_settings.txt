@@ -1,5 +1,0 @@
-DangerType: None
-CeilingDrips: 0.2608696
-RainIntensity: 0
-RumbleIntensity: 0
-Effects: ZeroG-0.4565217-20-20, 

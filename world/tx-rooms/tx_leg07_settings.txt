@@ -1,9 +1,9 @@
 RainIntensity: 0.5217391
-WaveSpeed: 0.5118821
-WaveLength: 0.994059
-WaveAmplitude: 0.009498226
+WaveSpeed: 0.4904451
+WaveLength: 0.9952226
+WaveAmplitude: 0.007826385
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Clouds: 1
-PlacedObjects: FairyParticleSettings><391.653><48.32513><9~-360.3398~0~4.260851~5.891286~0.02173913~1.716524~2.785407~309.7825~500~326.087~1000~32.3913~41.73924~219.1303~258.2608~0.5~0.7~0~0~0.5760867~1~1~0.2282609~6.791306~Circle~LINEAR~SIN_IO~0~0~2.391304, ColoredSnowSource><928.8295><588.6455><-41~69~0~100~27~Radial~False~-359^-354, ColoredSnowSource><691.5668><365.3302><201~160~0~100~0~None~True~58^-3, ColoredSnowSource><685><1064><201~160~0~100~0~None~True~58^-3, ColoredSnowSource><862><1289><-41~69~0~100~27~Radial~False~-359^-354, ColoredSnowSource><912><2137><-41~69~0~100~27~Radial~False~-359^-354, ColoredSnowSource><679><1762><201~160~0~100~0~None~True~58^-3, ColoredSnowSource><688.0001><2460><201~160~0~100~0~None~True~58^-3, ColoredSnowSource><922.0001><2750><-41~69~0~100~27~Radial~False~-359^-354, 
+PlacedObjects: FairyParticleSettings><391.653><48.32513><9~-360.3398~0~4.260851~5.891286~0.02173913~1.716524~2.785407~309.7825~500~326.087~1000~32.3913~41.73924~219.1303~258.2608~0.5~0.7~0~0~0.5760867~1~1~0.2282609~6.791306~Circle~LINEAR~SIN_IO~0~0~2.391304, ColoredSnowSource><823.8296><615.6455><-41~69~0~100~37~Radial~False~-359^-354, ColoredSnowSource><687.5668><370.3302><127~67~0~100~0~None~True~44^-2, ColoredSnowSource><683><1062><195~79~1~100~0~None~True~52^-25, ColoredSnowSource><873><1292><-41~69~1~100~27~Radial~False~-359^-354, ColoredSnowSource><912><2137><-41~69~2~100~27~Radial~False~-359^-354, ColoredSnowSource><683><1740><201~160~2~100~0~None~True~58^-3, ColoredSnowSource><688.0001><2460><201~160~0~100~0~None~True~58^-3, ColoredSnowSource><900.0001><2668><-41~69~0~100~27~Radial~False~-266.0001^-258, SnowSource><404.3004><430.7383><Strip~328~71~50~86.60254~1~1, SnowSource><96><463><Radial~133~-6~50~86.60254~1~0.2934783, SnowSource><138.4135><1199.385><Radial~96~104~50~86.60254~1~0.5869565, SnowSource><468.0515><1164.524><Strip~125~147~50~86.60254~1~0.4565211, SnowSource><427><1887><Strip~125~147~50~86.60254~1~0.4565211, SnowSource><133><1915><Radial~95~120~50~86.60254~1~0.4565211, SnowSource><89><2629><Radial~68.00003~115~50~86.60254~1~0.4565211, SnowSource><370><2610.001><Strip~288.0001~58~50~86.60254~1~1, 
 FadePalette: 17, 0.9021741, 0.8478262, 0.8152176, 0.7717393

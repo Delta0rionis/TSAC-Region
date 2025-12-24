@@ -1,7 +1,0 @@
-Template: TS_SettingsTemplate_Archive
-DangerType: None
-CeilingDrips: 0
-RainIntensity: 0
-RumbleIntensity: 0
-Palette: 0
-Effects: ZeroG-1-20-20, 

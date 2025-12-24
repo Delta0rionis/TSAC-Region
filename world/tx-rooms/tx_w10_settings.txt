@@ -1,1 +1,6 @@
-Template: TX_SettingsTemplate_Wall
+Template: tx_settingstemplate_wall
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0

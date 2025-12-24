@@ -1,0 +1,11 @@
+DangerType: None
+WaveSpeed: 0.5001648
+WaveLength: 0.9999176
+WaveAmplitude: 6.468101E-13
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0
+Palette: 0
+Effects: FairyParticles-0-303-69, Lightning-0-3-78, 
+PlacedObjects: CustomDecal><581.8287><110.5661><-18~170~79.00012~174~38~-20~92~213~0~1~0~lightblue~1~0~1~0~1~0~1~0, CustomDecal><466.0001><107><-18~170~79.00012~174~38~-20~92~213~0~1~0~white~1~0~1~0~1~0~1~0, 
+FadePalette: 17, 0

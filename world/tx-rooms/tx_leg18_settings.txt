@@ -1,0 +1,8 @@
+WaveSpeed: 0.5003648
+WaveLength: 0.9998176
+WaveAmplitude: 1.152877E-07
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Effects: FairyParticles-0.07608663-291-79, 
+PlacedObjects: FairyParticleSettings><-11.41531><-3.612549><27~-389.3398~0~5.891302~6.43478~0~1~1.817255~418.4782~500~217.3913~304.3478~3.913043~6.521819~180~195.6522~0~0.7~0~0~0.2934783~1~0.06521739~0.02173913~6.791306~Circle~LINEAR~EXP~0~0~0, LightFixture><19.89992><594.3676><RedLight~17.32051~-10~20, LightFixture><917.8914><243.1415><RedLight~17.32051~-10~12, LightFixture><216.6677><37.39117><RedLight~17.32051~-10~42, LightSource><107.106><276.1112><0.5978262~Environment~-9~125~-267~62.60254~0~0~None~0~0, LightSource><870.6985><561.9755><0.4673913~Environment~-90~16~-10~29.60254~0~0~None~0~0, LightSource><731.9999><78><0.7717391~Environment~-111~30~88.00006~-74.39746~0~0~None~0~0, 
+FadePalette: 17, 0.8586958

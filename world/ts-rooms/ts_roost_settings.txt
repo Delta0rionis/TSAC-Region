@@ -7,6 +7,7 @@ Clouds: 0
 Grime: 0.04347826
 Palette: 30
 EffectColorA: 5
-Effects: Dustpuffs-0.2608696-20-20, RoofTopView-1-284-18, PixelShift-0.2391304-18-77, Flies-0-283-74, Desaturation-0-24-130, 
+Effects: Dustpuffs-0.2608696-20-20, RoofTopView-1-284-18, PixelShift-0.2391304-18-77, Flies-0-283-74, Desaturation-0-24-130, DayNight-0.8913044-284-126, 
+PlacedObjects: DayNightSettings><956.6232><30.84534><5~8.660254~18~10, 
 FadePalette: 25, 0.2608696, 0.2608696
 BackgroundType: rf_lookstothemoon

@@ -1,8 +1,8 @@
 Template: tx_settingstemplate_underhang
-WaveSpeed: 0.5005544
-WaveLength: 0.9997228
-WaveAmplitude: 4.886607E-08
+WaveSpeed: 0.5003263
+WaveLength: 0.9998369
+WaveAmplitude: 1.316876E-09
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
-PlacedObjects: FairyParticleSettings><3178.189><462.9405><49.99994~-357.3398~0~4.260851~5.891286~0.02173913~1.716524~2.785407~309.7825~500~326.087~1000~32.3913~41.73924~219.1303~258.2608~0.5~0.7~0~0~0.5760867~1~1~0.2282609~6.791306~Circle~LINEAR~SIN_IO~0~0~2.391304, 
-FadePalette: 17, 0.7500002, 0.7608697, 0.804348
+PlacedObjects: FairyParticleSettings><3178.189><462.9405><49.99994~-357.3398~0~4.260851~5.891286~0.02173913~1.716524~2.785407~309.7825~500~326.087~1000~32.3913~41.73924~219.1303~258.2608~0.5~0.7~0~0~0.5760867~1~1~0.2282609~6.791306~Circle~LINEAR~SIN_IO~0~0~2.391304, ColoredSnowSource><1755.68><408.3378><100~50~0~100~100~Radial~False~358.9999^-205, LightFixture><1027.67><823.1833><RedLight~17.32051~-10~46, LightSource><2014.102><840.1721><1~Environment~3~-110~-108~-255.3975~0~0~None~0~0, LightSource><116><427><1~Environment~3~-110~-201~57.60248~0~0~None~0~0, LightSource><662><269><0.3043485~EffectColor2~-140~2~-372.9999~-78.39752~0~1~None~0~0, LightSource><452><400><0.7391304~Environment~3~-110~-235~-139.3975~0~0~None~0~0, LightSource><696.9999><510><0.7391304~Environment~3~-110~-245.9999~66.60248~0~0~None~0~0, LightSource><924><400><0.7391304~Environment~3~-110~-118.9999~-180.3975~0~0~None~0~0, LightSource><1165><517><0.7391304~Environment~3~-110~-118.9999~-180.3975~0~0~None~0~0, LightFixture><109><606><RedLight~17.32051~-10~46, 
+FadePalette: 17, 0.7500002, 0.7608697

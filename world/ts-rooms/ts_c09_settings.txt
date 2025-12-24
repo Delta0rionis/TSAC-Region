@@ -1,9 +1,0 @@
-DangerType: None
-CeilingDrips: 0.1956522
-RainIntensity: 0
-RumbleIntensity: 0
-Clouds: 0
-Palette: 32
-Effects: AboveCloudsView-1-20-20, Lightning-0-20-76, Coldness-0.01086957-287-19, GreenSparks-0.3695652-282-77, BkgOnlyLightning-0.5760869-20-127, 
-BackgroundOffset: 0,652.1738
-BackgroundType: atc_default_msc

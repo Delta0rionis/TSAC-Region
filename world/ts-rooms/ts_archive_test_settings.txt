@@ -1,9 +1,0 @@
-Template: ts_settingstemplate_archive
-DangerType: None
-Clouds: 0
-Palette: 24
-EffectColorA: 12
-EffectColorB: 6
-Effects: SunBlock-0-293-129, ZeroG-1-25-68, 
-PlacedObjects: SpotLight><116.5677><127.4177><132~531~686~541~579~20, LightSource><-22.69843><32.72491><1~EffectColor2~-27~37~50~86.60254~0~1~None~0~0, LightSource><100.6984><32.7244><1~EffectColor1~-36~40~50~86.60254~0~1~None~0~0, 
-FadePalette: 2, 0

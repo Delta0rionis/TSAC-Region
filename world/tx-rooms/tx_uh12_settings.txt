@@ -1,8 +1,10 @@
 Template: tx_settingstemplate_underhang
-WaveSpeed: 0.5003394
-WaveLength: 0.9998303
-WaveAmplitude: 5.125366E-07
+WaveSpeed: 0.5016456
+WaveLength: 0.9991772
+WaveAmplitude: 2.676379E-05
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
+Effects: ElectricDeath-0.25-546-13, FairyParticles-0.2282609-312-73, Lightning-0.1413043-20-73, ExtraLoudThunder-0.173913-12-125, 
 PlacedObjects: FairyParticleSettings><2008.303><12.21625><5~8.660254~0~4.260851~5.891286~0.02173913~1.716524~2.785407~309.7825~500~326.087~1000~32.3913~41.73924~219.1303~258.2608~0.5~0.7~0~0~0.5760867~1~1~0.2282609~6.791306~Circle~LINEAR~SIN_IO~0~0~2.391304, 
+FadePalette: 17, 0.7282607, 0.6195651, 0.4782609
 BackgroundType: backgroundtest1.txt

@@ -1,11 +1,11 @@
-WaveSpeed: 0.4994911
-WaveLength: 0.9997455
-WaveAmplitude: 6.732276E-06
+WaveSpeed: 0.4992318
+WaveLength: 0.9996159
+WaveAmplitude: 2.510529E-05
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Palette: 1
 EffectColorA: 8
 EffectColorB: 20
 Effects: FairyParticles-0-290-83, 
-PlacedObjects: LightSource><86.89984><138.4231><1~Environment~0~100~10~402.6025~0~0~None~0~0, LightSource><874><131><0.6086956~Environment~0~100~-231~368.6025~0~0~None~0~0, LightFixture><492.8463><306.1221><RedLight~-118.6795~329~24, AdjustableFan><-183.3459><89.6225><5~8.660254~0~0.4~0.8586956~1, AdjustableFan><1152.631><86.90109><5~8.660254~0~0.4~1~1, LightSource><1146><93><0.5869565~EffectColor2~-96~117~-242~414.6025~0~0~None~0~0, LightSource><-185><96><0.6086956~EffectColor2~24~150~7~359.6025~0~0~None~0~0, SnowSource><66.44562><164.7084><Radial~-27~73~-247~410.6025~0.5217391~1, SnowSource><902><169><Radial~-27~73~-2~455.6025~0.5217391~1, 
+PlacedObjects: LightSource><86.89984><138.4231><1~Environment~0~100~10~402.6025~0~0~None~0~0, LightSource><874><131><0.6086956~Environment~0~100~-231~368.6025~0~0~None~0~0, LightFixture><492.8463><306.1221><RedLight~-118.6795~329~24, AdjustableFan><-186.3459><93.6225><5~8.660254~0~0.4~1~0, AdjustableFan><1147.631><95.90109><5~8.660254~0~0.4~1~0, LightSource><1146><93><0.5869565~EffectColor2~-96~117~-242~414.6025~0~0~None~0~0, LightSource><-187><103><0.6086956~EffectColor2~24~150~7~359.6025~0~0~None~0~0, SnowSource><66.44562><164.7084><Radial~-27~73~-247~410.6025~0.5217391~1, SnowSource><902><169><Radial~-27~73~-2~455.6025~0.5217391~1, 
 FadePalette: 17, 0.7934783

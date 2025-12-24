@@ -1,5 +1,0 @@
-Template: ts_settingstemplate_archive
-Palette: 23
-Effects: SSSwarmers-0.1630435-281-16, ProjectedScanLines-0-277-73, 
-PlacedObjects: CoralNeuron><711.0622><287.0688><-429~16, WallMycelia><193.8306><104.1831><96~117, WallMycelia><815.8348><573.6811><-111~-129, SuperStructureFuses><31.12164><258.3466><199~132, SuperStructureFuses><331.5016><-10.45><186~188, SuperStructureFuses><51.96887><31.05244><140~89, SuperStructureFuses><110.121><488.5972><120~119, SuperStructureFuses><309.5085><411.3002><206~223, SuperStructureFuses><772.3592><568.9175><115~64, WallMycelia><617.0916><64.87799><1~143, SuperStructureFuses><753.5668><188.1699><224~222, SuperStructureFuses><710.8739><7.905212><191~142, SuperStructureFuses><590.9773><450.1987><66~61, WallMycelia><136.1908><452.0601><75~-45, SpotLight><159.0947><97.42621><49~398~624~433~545~29, 
-FadePalette: 24, 0.09782609

@@ -5,6 +5,7 @@ RainIntensity: 0
 RumbleIntensity: 0
 Clouds: 0
 Palette: 1
-Effects: ZeroG-0.06521739-20-20, SkyAndLightBloom-0.01086957-28-75, 
+Effects: ZeroG-0.06521739-20-20, SkyAndLightBloom-0.01086957-20-76, DayNight-0.7391304-282-18, 
+PlacedObjects: DayNightSettings><3069.755><-0.3000488><5~8.660254~4~10, 
 FadePalette: 62, 0.3043478, 0.4130435, 0.5108696, 0.5869565
 WetTerrain: OFF
